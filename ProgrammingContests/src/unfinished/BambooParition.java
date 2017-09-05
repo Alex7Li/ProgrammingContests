@@ -1,39 +1,40 @@
+package unfinished;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-/**
- * 
- */
-
-/**
- * @author 7Alex
- *
- */
-public class BambooParitionBrute {
+public class BambooParition {
 	public static void main(String[] args) throws IOException {
-		FastIO fio = new FastIO();
+		FastInOut fio = new FastInOut();
 		int n = fio.readInt();
 		int k = fio.readInt();
 		int[] heights = fio.readIntArray(n);
 		fio.close();
 		Arrays.sort(heights);
-		System.out.println(best(k,heights));
+		System.out.println(best2(k,heights));
 	}
 
-	public static int best(int k, int[] heights) {
-		int minValid = 1;
-		int max = heights[heights.length-1]+k/heights.length;
-		for (int d = 2; d < max; d++) {
-			if(!tooMuchWaste(d,k,heights)) {
-				minValid = d;
-			}
+	private static int best2(int k, int[] heights) {
+		int C = k;
+		for (int i = 0; i < heights.length; i++) {
+			C+= heights[i];
 		}
-		return minValid;
+		int max = heights[heights.length-1];
+		System.out.println(C + max);
+		for (int i = 1; i < 400; i++) {
+			System.out.println(getSum(i,heights));
+		}
+		return 1;
 	}
-		
+	public static long getSum(int d, int[] heights) {
+		long sum = 0;
+		for (int i = 0; i < heights.length; i++) {
+				sum += Math.ceil((float)heights[i]/d);
+		}
+		return sum;
+	}
 	public static boolean tooMuchWaste(int d, int k, int[] heights) {
 		long waste = 0;
 		for (int i = 0; i < heights.length; i++) {
@@ -48,9 +49,9 @@ public class BambooParitionBrute {
 	}
 }
 
-class FastIO extends BufferedReader{
+class FastInOut extends BufferedReader{
     private StringTokenizer tok = new StringTokenizer("");
-	public FastIO() {
+	public FastInOut() {
 		super(new InputStreamReader(System.in));
 	}
     String readString() {
