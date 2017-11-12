@@ -1,4 +1,4 @@
-package acmkattis;
+package unfinished;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -16,6 +16,7 @@ public class GreetingCard {
 		search[5] = -1680 + (1118<<31);
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int n = Integer.parseInt(br.readLine());
+		@SuppressWarnings("unused")
 		Hashtable<Long, Long> ht = new Hashtable<Long, Long>();
 		long[] points = new long[n];
 		for (int i = 0; i < n; i++) {
