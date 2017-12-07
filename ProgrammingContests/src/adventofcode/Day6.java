@@ -1,5 +1,5 @@
 package adventofcode;
-
+//https://adventofcode.com/2017/day/6
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
