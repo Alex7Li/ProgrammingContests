@@ -1,4 +1,5 @@
 package temp;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.PriorityQueue;
@@ -12,12 +13,12 @@ public class MissleSilos {
 		int m = s.nextInt();
 		int capLoc = s.nextInt() - 1;
 		City[] cities = new City[n];
-		//O(n)
+		// O(n)
 		for (int i = 0; i < n; i++) {
 			cities[i] = new City();
 		}
 		int[][] roads = new int[m][3];
-		//O(m)
+		// O(m)
 		for (int i = 0; i < m; i++) {
 			int u = s.nextInt() - 1;
 			int v = s.nextInt() - 1;
@@ -36,7 +37,7 @@ public class MissleSilos {
 		PriorityQueue<City> Q = new PriorityQueue<>();
 		Q.add(cities[capLoc]);
 		cities[capLoc].distToCapital = 0;
-		//O(m + nlogn)
+		// O(m + nlogn)
 		while (!Q.isEmpty()) {
 			City next = Q.poll();
 			for (City connectedCity : next.connected.keySet()) {
@@ -44,18 +45,20 @@ public class MissleSilos {
 					if (connectedCity.distToCapital > next.distToCapital + next.connected.get(connectedCity)) {
 						connectedCity.distToCapital = next.distToCapital + next.connected.get(connectedCity);
 					}
-					Q.add(connectedCity);
+					if (!Q.contains(connectedCity)) {
+						Q.add(connectedCity);
+					}
 				}
 			}
 			next.checked = true;
 		}
-		//O(n)
+		// O(n)
 		for (int i = 0; i < cities.length; i++) {
 			if (cities[i].distToCapital == siloDist) {
 				count++;
 			}
 		}
-		//O(m)
+		// O(m)
 		for (int i = 0; i < roads.length; i++) {
 			int u = cities[roads[i][0]].distToCapital;
 			int v = cities[roads[i][1]].distToCapital;
@@ -101,6 +104,7 @@ public class MissleSilos {
 	}
 
 	public static class City implements Comparable<City> {
+
 		Map<City, Integer> connected = new HashMap<City, Integer>();
 		int distToCapital = Integer.MAX_VALUE;
 		boolean checked = false;
