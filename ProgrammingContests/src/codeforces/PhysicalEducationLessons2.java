@@ -7,8 +7,8 @@ import java.util.TreeSet;
 
 //http://codeforces.com/contest/915/problem/E
 //model solution: http://codeforces.com/contest/915/submission/34229183
+//I DIIIIDDD ITTTTTT!!!!!!!! YESSSSSSSSSSSS!!!!!!!!!!!!
 public class PhysicalEducationLessons2 {
-	//java is too slow ): I am almost positive the Algorithm is fine
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		TreeSet<int[]> segments = new TreeSet<int[]>(new Comparator<int[]>() {
@@ -21,6 +21,7 @@ public class PhysicalEducationLessons2 {
 		int n = Integer.parseInt(br.readLine());
 		int q = Integer.parseInt(br.readLine());
 		int workingDays = n;
+		StringBuilder ans = new StringBuilder();
 		for (int i = 0; i < q; i++) {
 			String[] input = br.readLine().split(" ");
 			int[] in = new int[input.length];
@@ -60,7 +61,8 @@ public class PhysicalEducationLessons2 {
 					segments.add(new int[] { right + 1, rightBound });
 				}
 			}
-			System.out.println(workingDays);
+			ans.append(workingDays + "\r\n");
 		}
+		System.out.println(ans);
 	}
 }
