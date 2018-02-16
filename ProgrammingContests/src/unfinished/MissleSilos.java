@@ -1,4 +1,5 @@
-package temp;
+package unfinished;
+
 
 import java.util.HashMap;
 import java.util.Map;
@@ -13,12 +14,10 @@ public class MissleSilos {
 		int m = s.nextInt();
 		int capLoc = s.nextInt() - 1;
 		City[] cities = new City[n];
-		// O(n)
 		for (int i = 0; i < n; i++) {
 			cities[i] = new City();
 		}
 		int[][] roads = new int[m][3];
-		// O(m)
 		for (int i = 0; i < m; i++) {
 			int u = s.nextInt() - 1;
 			int v = s.nextInt() - 1;
@@ -29,10 +28,6 @@ public class MissleSilos {
 		}
 		int siloDist = s.nextInt();
 		s.close();
-		if (siloDist == 0) {
-			System.out.println(1);
-			return;
-		}
 		int count = 0;
 		PriorityQueue<City> Q = new PriorityQueue<>();
 		Q.add(cities[capLoc]);
@@ -52,13 +47,11 @@ public class MissleSilos {
 			}
 			next.checked = true;
 		}
-		// O(n)
 		for (int i = 0; i < cities.length; i++) {
 			if (cities[i].distToCapital == siloDist) {
 				count++;
 			}
 		}
-		// O(m)
 		for (int i = 0; i < roads.length; i++) {
 			int u = cities[roads[i][0]].distToCapital;
 			int v = cities[roads[i][1]].distToCapital;

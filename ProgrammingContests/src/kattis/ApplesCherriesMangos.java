@@ -2,7 +2,7 @@ package kattis;
 
 import java.math.BigInteger;
 import java.util.Scanner;
-
+//https://open.kattis.com/problems/applescherriesmangos
 public class ApplesCherriesMangos {
 	private static final int MOD = 1000000007;
 	public static void main(String[] args) {
