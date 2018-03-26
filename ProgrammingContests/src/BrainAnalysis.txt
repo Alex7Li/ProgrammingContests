@@ -1,0 +1,89 @@
+import sys;
+
+TRIAL_TIME_MILLSEC = 5000;
+#data is the map
+def analyze():
+    print("{")
+    # print(analyzeTrial("lap", sys.argv[1]) + ",");
+    # print(analyzeTrial("face", sys.argv[2])+",");
+    # print(analyzeTrial("front", sys.argv[3])",");
+    # print(analyzeTrial("move", sys.argv[4]));
+    print(analyzeTrial("lap", data[1]) + ",");
+    print(analyzeTrial("face", data[2])+",");
+    print(analyzeTrial("front", data[3])",");
+    print(analyzeTrial("move", data[4]));
+    print("}")
+    sys.stdout.flush();
+
+def analyzeTrial(name,trialData):
+    totalSum = 0;
+    for accelerations in trialData.values():
+        totalSum += math.sqrt(accelerations[0]**2+accelerations[1]**2+accelerations[2]**2);
+    avSum = totalSum/TRIAL_TIME_MILLSEC;
+    print(name + ":\"" + avSum+"\"");
+    return totalSum/TRIAL_TIME_MILLSEC;
+data = [];
+data.append[{"time": 0,
+    "x": 1.2,
+    "y": .90,
+    "z": 1.79,
+    },
+ {"time": 21,
+    "x": 2.33,
+    "y": .55,
+    "z": 2.11,
+    },
+ {"time": 40,
+    "x": 2.33,
+    "y": 1.55,
+    "z": 2.11,
+    },
+];
+data.append[{"time": 0,
+    "x": 1.2,
+    "y": .90,
+    "z": 1.79,
+    },
+ {"time": 21,
+    "x": 2.33,
+    "y": .55,
+    "z": 2.11,
+    },
+ {"time": 40,
+    "x": 2.33,
+    "y": 1.55,
+    "z": 2.11,
+    },
+];
+data.append[{"time": 0,
+    "x": 1.2,
+    "y": .99,
+    "z": 2.79,
+    },
+ {"time": 21,
+    "x": 2.33,
+    "y": .554,
+    "z": 2.11,
+    },
+ {"time": 40,
+    "x": 2.33,
+    "y": 1.55,
+    "z": 2.11,
+    },
+];
+data.append[{"time": 0,
+    "x": 1.2,
+    "y": .90,
+    "z": 1.76,
+    },
+ {"time": 21,
+    "x": 1.33,
+    "y": .34,
+    "z": 2.11,
+    },
+ {"time": 40,
+    "x": 2.33,
+    "y": 1.55,
+    "z": 2.11,
+    },
+];

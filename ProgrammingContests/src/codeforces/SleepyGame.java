@@ -1,3 +1,4 @@
+package codeforces;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -32,8 +33,34 @@ public class SleepyGame {
 		Node startNode = nodes[start];
 		StringBuilder path = findWinning(startNode);
 		if (path.length() != 0) {
+			System.out.println("Win");
 			System.out.println(path.reverse());
+		} else {
+			for (int i = 0; i < nodes.length; i++) {
+				nodes[i].seen = false;
+			}
+			if (findCycle(startNode)) {
+				System.out.println("Draw");
+			} else {
+				System.out.println("Lose");
+			}
 		}
+
+	}
+
+	private static boolean findCycle(Node startNode) {
+		startNode.seen = true;
+		for (Node next : startNode.edges) {
+			if (next.seen) {
+				return true;
+			} else {
+				if (findCycle(next)) {
+					return true;
+				}
+			}
+		}
+		startNode.seen = false;
+		return false;
 	}
 
 	private static StringBuilder findWinning(Node startNode) {
@@ -42,21 +69,26 @@ public class SleepyGame {
 			if (startNode.index < n) {
 				return new StringBuilder();
 			} else {
-				return new StringBuilder(startNode.index % n + 1);
+				//this will be reversed later so I have to reverse it now
+				StringBuilder toAdd = new StringBuilder(((startNode.index) % n + 1)+"");
+				toAdd.reverse();
+				return toAdd;
 			}
 		} else {
 			for (Node next : startNode.edges) {
 				if (!next.seen) {
-					StringBuilder path = findWinning(startNode);
+					StringBuilder path = findWinning(next);
 					if (path.length() != 0) {
-						return path.append(" " + ((startNode.index) % n + 1));
+						//this will be reversed later so I have to reverse it now
+						StringBuilder toAdd = new StringBuilder(((startNode.index) % n + 1)+" ");
+						toAdd.reverse();
+						return path.append(toAdd);
 					}
 				}
 			}
 			return new StringBuilder();
 		}
 	}
-
 	public static class Node {
 		List<Node> edges = new ArrayList<Node>();
 		int index;
@@ -68,7 +100,7 @@ public class SleepyGame {
 			for (int i = 0; i < edges.size(); i++) {
 				ret += edges.get(i).index + " ";
 			}
-			ret = ret + "}";
+			ret = ret + "}" + seen;
 			return ret;
 		}
 	}
