@@ -14,5 +14,6 @@ A very very very useful book is uploaded here as "Competitve Programmer's Handbo
 
 Here is a large chat with many competitive programmers
 https://discord.gg/9YxxaaQ
+
 This website may be good if you have many accounts on different websites and want to look at them all.
 https://www.stopstalk.com/user/profile
