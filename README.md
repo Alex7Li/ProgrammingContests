@@ -13,7 +13,6 @@ Resources for Others interested in Competitive Programming, sorted in order of u
 A very very very useful book is uploaded here as "Competitve Programmer's Handbook"
 
 Here is a large chat with many competitive programmers
-https://discordapp.com/channels/326795829664808960/326795829664808960
-
+https://discord.gg/9YxxaaQ
 This website may be good if you have many accounts on different websites and want to look at them all.
 https://www.stopstalk.com/user/profile
