@@ -1,4 +1,4 @@
-package misc;
+package misc.googlecontest;
 import java.util.Arrays;
 import java.util.Scanner;
 

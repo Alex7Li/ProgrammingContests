@@ -1,4 +1,4 @@
-package misc;
+package misc.aoc;
 //http://adventofcode.com/2017/day/3
 
 import java.util.Scanner;

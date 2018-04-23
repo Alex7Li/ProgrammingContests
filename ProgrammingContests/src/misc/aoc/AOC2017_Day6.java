@@ -1,4 +1,4 @@
-package misc;
+package misc.aoc;
 //https://adventofcode.com/2017/day/6
 import java.util.ArrayList;
 import java.util.Arrays;
