@@ -1,3 +1,4 @@
+package codeforces;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -7,7 +8,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 //http://codeforces.com/contest/963/problem/B
-public class DestructionOfTree {
+//fails TLE
+public class DestructionOfTreeAlternatingRecursion {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		br.readLine();
