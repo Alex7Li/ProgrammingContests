@@ -15,6 +15,3 @@ It's also here https://cses.fi/book.pdf
 
 Here is a large chat with many competitive programmers
 https://discord.gg/9YxxaaQ
-
-This website may be good if you have many accounts on different websites and want to look at them all.
-https://www.stopstalk.com/user/profile
