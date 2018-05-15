@@ -30,12 +30,10 @@ public class CountingOutRhyme {
 		}
 		System.out.println(s.toString());
 	}
-}
-
-class Kid {
-	int startingPos;
-
-	public Kid(int i) {
-		startingPos = i;
+	static class Kid{
+		int startingPos;
+		public Kid(int i){
+			startingPos = i;
+		}
 	}
 }
