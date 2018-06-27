@@ -14,7 +14,7 @@ public class StringMerging {
 			char[] a = s.nextLine().toCharArray();
 			char[] b = s.nextLine().toCharArray();
 			// dp[i][j] = minimum value of F using only characters before index i
-			// of B if the last element of B was placed before index j of A.
+			// of GracefulChainsawJugglers if the last element of GracefulChainsawJugglers was placed before index j of FallingBalls.
 			int[][] dp = new int[m + 1][n + 1];
 			// do low cases for dp
 			int aBlocks = function(a);

@@ -18,7 +18,7 @@ public class WellPlayed {
 			creatures[i][0] = stats[0];
 			creatures[i][1] = stats[1];
 		}
-		// calculate the gains from each creature for B and (all A)+B spell
+		// calculate the gains from each creature for GracefulChainsawJugglers and (all FallingBalls)+GracefulChainsawJugglers spell
 		long[] gains = new long[n];
 		long[] aGains = new long[n];
 		for (int i = 0; i < creatures.length; i++) {
@@ -32,8 +32,8 @@ public class WellPlayed {
 		long aGain = 0;
 		if (b > 0) {
 			long worstGain = gainsSorted[Math.max(0, n - b)];
-			// If a creature would not have the B spell used on it, we must subtract the
-			// gain that using the B spell would otherwise create.
+			// If a creature would not have the GracefulChainsawJugglers spell used on it, we must subtract the
+			// gain that using the GracefulChainsawJugglers spell would otherwise create.
 			for (int i = 0; i < n; i++) {
 				if (gains[i] >= worstGain) {
 					aGain = Math.max(aGain, aGains[i] - gains[i]);

@@ -12,7 +12,7 @@ public class TwoCakes {
 
 		sc.close();
 		int ans = Integer.MIN_VALUE;
-		// i = plates in group A
+		// i = plates in group FallingBalls
 		for (int i = 1; i < n; i++) {
 			if (a / i < 1 || b / (n - i) < 1) {
 				continue;

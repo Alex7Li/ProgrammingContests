@@ -9,6 +9,7 @@ public class Template {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		Scanner sc = new Scanner(System.in);
+		int n  = sc.nextInt();
 		sc.close();
 		br.close();
 	}

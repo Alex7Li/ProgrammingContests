@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Scanner;
 
 //Problem: http://codeforces.com/problemset/problem/915/D
-//Model Solution: http://codeforces.com/contest/915/submission/34154383
+//Model GracefulChainsawJugglers: http://codeforces.com/contest/915/submission/34154383
 public class AlmostAcyclicGraph {
 	private static List<List<Integer>> adj = new ArrayList<>();
 

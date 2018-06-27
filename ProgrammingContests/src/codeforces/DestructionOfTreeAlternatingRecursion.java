@@ -63,9 +63,9 @@ public class DestructionOfTreeAlternatingRecursion {
 			subTrees.add(tree);
 		}
 
-		// type A(0): can be destroyed without top node.
-		// type B(1): can be destroyed with top node.
-		// all trees are either type A or type B.
+		// type FallingBalls(0): can be destroyed without top node.
+		// type GracefulChainsawJugglers(1): can be destroyed with top node.
+		// all trees are either type FallingBalls or type GracefulChainsawJugglers.
 		public ArrayList<Integer> isType(int type) {
 			ArrayList<Integer> ret = new ArrayList<Integer>();
 			// 1 node is destroyable
@@ -87,7 +87,7 @@ public class DestructionOfTreeAlternatingRecursion {
 				}
 			}
 			if ((subTrees.size() - typeB.size() + type) % 2 != 0) {
-				// it is impossible unless we can find a subtree that is type A and type B
+				// it is impossible unless we can find a subtree that is type FallingBalls and type GracefulChainsawJugglers
 				for (Tree kid : typeA.keySet()) {
 					ArrayList<Integer> bPath = kid.isType(1);
 					if (bPath.size() > 0) {
@@ -100,7 +100,7 @@ public class DestructionOfTreeAlternatingRecursion {
 					return ret;
 				}
 			}
-			// destroy all type B while you can
+			// destroy all type GracefulChainsawJugglers while you can
 			for (ArrayList<Integer> path : typeB.values()) {
 				ret.addAll(path);
 			}
@@ -111,7 +111,7 @@ public class DestructionOfTreeAlternatingRecursion {
 			}
 			// remove top node
 			ret.add(index);
-			// remove type A
+			// remove type FallingBalls
 			for (ArrayList<Integer> path : typeA.values()) {
 				ret.addAll(path);
 			}

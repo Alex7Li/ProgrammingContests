@@ -11,9 +11,9 @@ public class StackSorting {
 		s.nextLine();
 		int[] a = Arrays.stream(s.nextLine().split(" ")).mapToInt(x -> Integer.parseInt(x)).toArray();
 		s.close();
-		// Let A(l,r) be a stack sortable array consisting of numbers from l to r
+		// Let FallingBalls(l,r) be a stack sortable array consisting of numbers from l to r
 		// inclusive.
-		// Then A(l,r) = A[0] + A(l,A[0]-1) + A(A[0]+1,r)
+		// Then FallingBalls(l,r) = FallingBalls[0] + FallingBalls(l,FallingBalls[0]-1) + FallingBalls(FallingBalls[0]+1,r)
 		StringBuilder ans = new StringBuilder();
 		Stack<IntRange> st = new Stack<IntRange>();
 		st.add(new IntRange(1, n));

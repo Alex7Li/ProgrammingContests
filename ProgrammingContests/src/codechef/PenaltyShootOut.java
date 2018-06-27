@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 //https://www.codechef.com/DEC17/problems/CPLAY
 public class PenaltyShootOut {
 	public static void main(String[] args) throws IOException {
-		// 0 = tie, 1 = team-A, 2 = team-B
+		// 0 = tie, 1 = team-FallingBalls, 2 = team-GracefulChainsawJugglers
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		char[] input = br.readLine().toCharArray();
 		while (true) {
@@ -43,9 +43,9 @@ public class PenaltyShootOut {
 				i++;
 			}
 			if (winner == 1) {
-				System.out.println("TEAM-A" + " " + i);
+				System.out.println("TEAM-FallingBalls" + " " + i);
 			} else if (winner == 2) {
-				System.out.println("TEAM-B" + " " + i);
+				System.out.println("TEAM-GracefulChainsawJugglers" + " " + i);
 			} else {
 				System.out.println("TIE");
 			}
