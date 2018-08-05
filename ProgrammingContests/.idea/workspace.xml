@@ -5,105 +5,7 @@
       <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ProgrammingContests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PolynomialMultiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atcoder/ABD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atcoder/GoodGrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atcoder/InteractiveSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atcoder/StoneMonument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atcoder/StrangeBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atcoder/WelcomeToAtCoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codechef/BestCakeEver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codechef/DifficultChoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codechef/SecretRecipe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/AdditionOnSegments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/AllowedLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/AnnoyingPresent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/AntiPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/Bishwock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/BlendOfSpringtime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/Bookshelves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/BookshelvesBruteRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/Border.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/BusNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/BusinessmanProblems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/Candies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/ChemicalTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/CowpanyCowpensation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/DivisibleBy25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/DominantIndicies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/Fingerprints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/Fly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/GameShopping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/GettingAnA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/GraphAndComp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/HighSchoolBecomeHuman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/Hills.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/IfAtFirstYouDontSucceed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/InfinityGauntlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/InterCityTravelling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/KnightsOfPolygonTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/MedianOnPermutationSegments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/MilitaryProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/MinTernaryString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/MistofFlorescence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/OpenCommunication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/PetrPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/PetrPermutationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/PhotoOfTheSky.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/PlanningTheExpedition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/PostLamps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/RainAndUmbrella.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/RelativelyPrimeGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/ReorderArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/Rocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/Romanji.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/ShadeOfMoonlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/SonyaAndExhibition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/SonyaAndHotels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/SonyaAndMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/SonyaAndRobots.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/Stages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/ThreeDisplays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/TideOfRiverscape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/TurnTheRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/TwoSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/TwoStringsSwaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/UsefulDecomposition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/XorPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/_Marathon_ColoredPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/_Marathon_ColoredPathGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/googlecodejam/FallingBalls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/googlecodejam/GracefulChainsawJugglers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/CountingChessEvolved.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/MontyHall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/brilliant/FixedPoint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/brilliant/PolynomialCipher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/brilliant/TrapezoidStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/brilliant/Waterflow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/googlecontest/CONTESTLINK.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/googlefoobar/BombBaby.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/googlefoobar/BrailleTranslation2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/googlefoobar/CONTESTLINK.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/googlefoobar/DistractTheGuards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/googlefoobar/DontGetVolunteered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/googlefoobar/ElevatorMaintenance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/googlefoobar/ExpandingNebula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/googlefoobar/FreeTheBunnyPrisoners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/googlefoobar/FuelInjectionPerfection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/googlefoobar/PrepareTheBunniesEscape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/hsctf/CONTESTLINK.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/hsctf/CountingPartitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/hsctf/CountingPartitions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/hsctf/Keith.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/hsctf/KeithArithmetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/hsctf/VerySmallPrimes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unfinished/Fair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/misc/googlecontest/39Steps.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/misc/googlecontest/39Steps.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -123,11 +25,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CONTESTLINK.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CONTESTLINK.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/misc/googlefoobar/CONTESTLINK.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -172,6 +83,7 @@
         <option value="$PROJECT_DIR$/src/misc/CountingChessEvolved.py" />
         <option value="$PROJECT_DIR$/src/misc/googlefoobar/BrailleTranslation2.py" />
         <option value="$PROJECT_DIR$/src/misc/googlefoobar/Message.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/misc/googlefoobar/CONTESTLINK.txt" />
       </list>
     </option>
@@ -206,20 +118,6 @@
               <item name="ProgrammingContests" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="misc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgrammingContests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgrammingContests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="misc" type="462c0819:PsiDirectoryNode" />
-              <item name="googlecontest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgrammingContests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgrammingContests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="misc" type="462c0819:PsiDirectoryNode" />
-              <item name="googlefoobar" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -381,7 +279,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32768363" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32768363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5833333" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.36864406" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -784,10 +682,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/misc/googlefoobar/CONTESTLINK.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
         </state>
       </provider>
     </entry>
