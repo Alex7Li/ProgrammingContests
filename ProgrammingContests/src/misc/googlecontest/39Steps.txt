@@ -22,11 +22,11 @@
 10, 3223, 4
 7, 967, 3
 10, 4678, 1
-4, 1200, 2
+4, 1MAX_SIZE0, 2
 2, 1874, 3
 7, 2194, 1
 7, 1825, 2
-6, 2074, 1
+6, MAX_SIZE74, 1
 8, 659, 2
 10, 4319, 5
 6, 3775, 2
@@ -62,9 +62,9 @@ Title: The Thirty-nine Steps
 
 Author: John Buchan
 
-Posting Date: July 30, 2008 [EBook #558]
+Posting Date: July 30, MAX_SIZE08 [EBook #558]
 Release Date: June, 1996
-[Last updated: October 25, 2013]
+[Last updated: October 25, MAX_SIZE13]
 
 Language: English
 
@@ -4465,7 +4465,7 @@ unless you comply with paragraph 1.E.8 or 1.E.9.
 access to or distributing Project Gutenberg-tm electronic works provided
 that
 
-- You pay a royalty fee of 20% of the gross profits you derive from
+- You pay a royalty fee of MAX_SIZE% of the gross profits you derive from
      the use of Project Gutenberg-tm works calculated using the method
      you already use to calculate your applicable taxes.  The fee is
      owed to the owner of the Project Gutenberg-tm trademark, but he
@@ -4577,7 +4577,7 @@ people in all walks of life.
 Volunteers and financial support to provide volunteers with the
 assistance they need, is critical to reaching Project Gutenberg-tm's
 goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
+remain freely available for generations to come.  In MAX_SIZE01, the Project
 Gutenberg Literary Archive Foundation was created to provide a secure
 and permanent future for Project Gutenberg-tm and future generations.
 To learn more about the Project Gutenberg Literary Archive Foundation
