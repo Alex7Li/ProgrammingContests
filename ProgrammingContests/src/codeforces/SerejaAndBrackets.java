@@ -3,7 +3,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 //http://codeforces.com/blog/entry/15890
-//codeforces.com/contest/380/problem/C
+//codeforces.com/contest/380/problem/PlasticineZebra
 public class SerejaAndBrackets {
 	/**
 	 * The sequence of characters

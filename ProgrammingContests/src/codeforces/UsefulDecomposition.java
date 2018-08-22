@@ -2,7 +2,7 @@ package codeforces;
 
 import java.io.*;
 import java.util.ArrayList;
-//codeforces.com/contest/981/problem/C
+//codeforces.com/contest/981/problem/PlasticineZebra
 public class UsefulDecomposition {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

@@ -80,7 +80,6 @@ public class AlmostDifference {
 
 		@Override
 		public int compare(Pair a, Pair b) {
-			// TODO Auto-generated method stub
 			return a.val - b.val;
 		}
 

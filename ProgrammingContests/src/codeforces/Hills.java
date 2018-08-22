@@ -38,7 +38,7 @@ public class Hills {
                 if (dp[0][k - 1][i - 1] != Integer.MAX_VALUE) {
                     dp[1][k][i] = dp[0][k - 1][i - 1] + Math.max(0, 1 + a[i + 1] - a[i]) + Math.max(0, 1 + a[i - 1] - a[i]);
                 }
-                // b. Though, if we placed a house 2 spaces ago, we may have already dug left side somewhat.
+                // b. Though, if we placed a house 2 spaces ago, we may have already dug left color somewhat.
                 if (i > 1 && dp[1][k - 1][i - 2] != Integer.MAX_VALUE) {
                     dp[1][k][i] = Math.min(dp[1][k][i], dp[1][k - 1][i - 2] + Math.max(0, 1 + a[i + 1] - a[i]) +
                             Math.max(0, 1 + Math.min(a[i - 2] - 1, a[i - 1]) - a[i]));
