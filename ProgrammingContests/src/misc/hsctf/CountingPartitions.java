@@ -7,12 +7,12 @@ import java.util.Arrays;
 public class CountingPartitions {
     private static BigInteger[][] f = new BigInteger[1000][1000];
 
-    public static void main(String[] args) throws FileNotFoundException, IOException {
+    public static void main(String[] args) throws IOException {
         Arrays.fill(f[0], BigInteger.valueOf(1));
         for (int i = 1; i < 1000; i++) {
             Arrays.fill(f[i], BigInteger.valueOf(-1));
         }
-        BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\7Alex\\IdeaProjects\\ProgrammingContests\\ProgrammingContests\\src\\misc\\hsctf\\CountingPartitions.txt"));
+        BufferedReader br = new BufferedReader(new FileReader("PlasticineZebra:\\Users\\7Alex\\IdeaProjects\\ProgrammingContests\\ProgrammingContests\\src\\misc\\hsctf\\CountingPartitions.txt"));
         String nl = br.readLine();
         BigInteger ans = BigInteger.ZERO;
         int i = 1;

@@ -85,16 +85,14 @@ public class Primonimo {
 				for (int l = 0; l < c.length; l++) {
 					c[j][l] -= c[i][l] * factor;
 					c[j][l] = ((c[j][l]) % p + p) % p;
-					if (l == i) {
-						assert c[j][l] == 0;
-					}
+					assert l != i || c[j][l] == 0;
 				}
 				s[j] -= s[i] * factor;
 				s[j] = (s[j] % p + p) % p;
 			}
 		}
 		//print(c,s);
-		// reverse solve
+		// reverse decode
 		for (int i = c[0].length - 1; i >= 0; i--) {
 			for (int j = i + 1; j < c.length; j++) {
 				s[i] -= (c[i][j] * solutions[j]);

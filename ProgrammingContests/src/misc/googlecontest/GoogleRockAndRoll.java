@@ -22,7 +22,7 @@ public class GoogleRockAndRoll {
 		sc.close();
 		for (int i = 0; i < pos.length; i++) {
 			for (int j = 0; j < pos[0].length; j++) {
-				// solve it
+				// decode it
 				boolean validStart = true;
 				int[] endPos = { i, j };
 				for (int k = 0; k < moves.length; k++) {

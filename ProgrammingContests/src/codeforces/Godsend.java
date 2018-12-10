@@ -2,8 +2,8 @@ package codeforces;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-//http://codeforces.com/contest/841/problem/B
 
+//http://codeforces.com/contest/841/problem/B
 public class Godsend {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
