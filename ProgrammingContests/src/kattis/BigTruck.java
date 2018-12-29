@@ -32,32 +32,32 @@ public class BigTruck {
 			System.out.println(cities[n - 1].minDist + " " + cities[n - 1].maxPacks);
 		}
 	}
-}
 
-class City {
-	int loc;
-	int packages;
-	int maxPacks;
-	int minDist = Integer.MAX_VALUE;
-	HashMap<City, Integer> connectedCities = new HashMap<City, Integer>();
+	private static class City {
+		int loc;
+		int packages;
+		int maxPacks;
+		int minDist = Integer.MAX_VALUE;
+		HashMap<City, Integer> connectedCities = new HashMap<City, Integer>();
 
-	public City(int loc, int packages) {
-		this.loc = loc;
-		this.packages = packages;
-	}
-
-	public void travel() {
-		for (City c : connectedCities.keySet()) {
-			if (c.minDist > minDist + connectedCities.get(c)) {
-				c.minDist = minDist + connectedCities.get(c);
-				c.maxPacks = maxPacks + c.packages;
-			} else if (c.minDist == minDist + connectedCities.get(c)) {
-				c.maxPacks = Math.max(c.maxPacks, maxPacks + c.packages);
-			}
+		public City(int loc, int packages) {
+			this.loc = loc;
+			this.packages = packages;
 		}
-		for (City c : connectedCities.keySet()) {
-			if (c.minDist >= minDist + connectedCities.get(c)) {
-				c.travel();
+
+		public void travel() {
+			for (City c : connectedCities.keySet()) {
+				if (c.minDist > minDist + connectedCities.get(c)) {
+					c.minDist = minDist + connectedCities.get(c);
+					c.maxPacks = maxPacks + c.packages;
+				} else if (c.minDist == minDist + connectedCities.get(c)) {
+					c.maxPacks = Math.max(c.maxPacks, maxPacks + c.packages);
+				}
+			}
+			for (City c : connectedCities.keySet()) {
+				if (c.minDist >= minDist + connectedCities.get(c)) {
+					c.travel();
+				}
 			}
 		}
 	}

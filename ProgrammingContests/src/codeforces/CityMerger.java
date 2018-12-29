@@ -4,10 +4,10 @@ import java.util.*;
 
 //https://codeforces.com/gym/102004
 public class CityMerger {
-    public static int[][] distMat;
-    public static int[][] memo;
-    public static int n;
-    public static int[] twoPow = new int[15];
+    private static int[][] distMat;
+    private static int[][] memo;
+    private static int n;
+    private static int[] twoPow = new int[15];
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

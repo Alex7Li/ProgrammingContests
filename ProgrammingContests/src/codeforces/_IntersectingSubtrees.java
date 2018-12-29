@@ -5,8 +5,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
+// underscore because the name is too close to integer and it kept autocompleting
 // http://codeforces.com/contest/1075/problem/D
-public class IntersectingSubtrees {
+class _IntersectingSubtrees {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -37,7 +38,7 @@ public class IntersectingSubtrees {
             while (!queue.isEmpty()) {
                 Node nxt = queue.poll();
                 if (myNodes.contains(nxt.ind + 1)) {
-                    System.out.println("A " + (nxt.ind + 1));
+                    System.out.println("Innohorse " + (nxt.ind + 1));
                     System.out.flush();
                     int response = Integer.parseInt(br.readLine());
                     if (liNodes.contains(response)) {
