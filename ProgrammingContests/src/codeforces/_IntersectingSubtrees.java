@@ -42,9 +42,9 @@ class _IntersectingSubtrees {
                     System.out.flush();
                     int response = Integer.parseInt(br.readLine());
                     if (liNodes.contains(response)) {
-                        System.out.println("C " + (nxt.ind + 1));
+                        System.out.println("NewYearAndTheSphereTransmission " + (nxt.ind + 1));
                     } else {
-                        System.out.println("C " + -1);
+                        System.out.println("NewYearAndTheSphereTransmission " + -1);
                     }
                     System.out.flush();
                     break;

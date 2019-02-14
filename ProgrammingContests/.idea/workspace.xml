@@ -2,41 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="865ea030-bfd0-41f8-b918-ab0757d7e46a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Equalize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JumpingHaybales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Packets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReachMedian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarArrangements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidBFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/acmclub/Arbitrage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/acmclub/R2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/acmclub/R2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/acmclub/R2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/jobquestions/Symcode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/jobquestions/symcode-in.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/jobquestions/testData.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ProgrammingContests.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/acmclub/escapeInput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/atcoder/DigitsSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/atcoder/RGBColoring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/brilliant/FixedPoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/brilliant/PolynomialCipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/brilliant/Waterflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/googlecontest/CONTESTLINK.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/googlefoobar/BrailleTranslation2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/googlefoobar/CONTESTLINK.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/hsctf/CONTESTLINK.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/hsctf/CountingPartitions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/hsctf/Keith.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/hsctf/KeithArithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/hsctf/VerySmallPrimes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ProgrammingContests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingContests.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlasticineZebra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/PlasticineZebra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PolynomialMultiplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/FeelingLucky.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/FeelingLucky.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kattis/Primonimo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kattis/Primonimo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kattis/R2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kattis/R2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kattis/cpphello/hello.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmclub/cpphello/hello.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kattis/cpphello/hello.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/acmclub/cpphello/hello.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kattis/cppr2/r2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kattis/cppr2/r2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/kattis/cppr2/r2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/misc/MontyHall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/misc/MontyHall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/misc/googlecontest/39Steps.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/misc/googlecontest/39Steps.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/misc/googlecontest/GoogleRockAndRoll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/misc/googlecontest/GoogleRockAndRoll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/misc/hsctf/CountingPartitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/misc/hsctf/CountingPartitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tools/GraphInput" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/GraphInput" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tools/GraphInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/GraphInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeforces/BuggyRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/BuggyRobot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeforces/_IntersectingSubtrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/_IntersectingSubtrees.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,45 +41,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StarArrangements.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StarArrangements.java">
+      <file leaf-file-name="GeneratePermutations.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GeneratePermutations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+            <state relative-caret-position="221">
+              <caret line="13" column="19" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JumpingHaybales.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JumpingHaybales.java">
+      <file leaf-file-name="GenerateSubsetIterative.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GenerateSubsetIterative.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="haybales_vanb.java" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Desktop/haybales_solutions/accepted/haybales_vanb.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;class#From#0;class#haybales_vanb#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CanUEscape.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/acmclub/CanUEscape.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+            <state relative-caret-position="306">
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -117,7 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/codeforces/AppropriateTeam.java" />
         <option value="$PROJECT_DIR$/src/unfinished/AppropriateTeam.java" />
         <option value="$PROJECT_DIR$/src/codeforces/WeNeedMoreBosses.java" />
         <option value="$PROJECT_DIR$/src/codeforces/BipartateEhabEasy.java" />
@@ -168,13 +131,14 @@
         <option value="$PROJECT_DIR$/src/misc/googlefoobar/CloseHouses.java" />
         <option value="$PROJECT_DIR$/src/StarArrangements.java" />
         <option value="$PROJECT_DIR$/src/JumpingHaybales.java" />
+        <option value="$PROJECT_DIR$/src/GeneratePermutations.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1088" />
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1089" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -184,7 +148,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,23 +160,12 @@
               <item name="ProgrammingContests" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ProgrammingContests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgrammingContests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="acmclub" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgrammingContests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgrammingContests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,7 +174,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -252,19 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JumpingHaybales">
-    <configuration name="GooglePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="misc.GooglePractice" />
-      <module name="ProgrammingContests" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="misc.googlefoobar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Python.GeneratePermutations">
     <configuration name="JumpingHaybales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JumpingHaybales" />
       <module name="ProgrammingContests" />
@@ -300,6 +240,24 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+    </configuration>
+    <configuration name="GeneratePermutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProgrammingContests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/GeneratePermutations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="VM_PARAMETERS" value="-ea" />
@@ -344,19 +302,11 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Symcode" />
-      <item itemvalue="Application.GooglePractice" />
-      <item itemvalue="Application.LinesOfStudents" />
-      <item itemvalue="Application.StarArrangements" />
-      <item itemvalue="Application.JumpingHaybales" />
+      <item itemvalue="Python.GeneratePermutations" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JumpingHaybales" />
-        <item itemvalue="Application.StarArrangements" />
-        <item itemvalue="Application.LinesOfStudents" />
-        <item itemvalue="Application.GooglePractice" />
-        <item itemvalue="Application.Symcode" />
+        <item itemvalue="Python.GeneratePermutations" />
       </list>
     </recent_temporary>
   </component>
@@ -384,26 +334,27 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21017845" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32968536" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49739584" weight="0.3294423" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5045573" side_tool="true" weight="0.32814527" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49544272" weight="0.33592737" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.43079096" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21028645" />
-      <window_info id="Learn" order="2" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.328877" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49544272" weight="0.33556148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.43048128" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49934897" weight="0.39818418" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32909605" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Learn" order="2" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49739584" weight="0.3294423" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49934897" weight="0.32555124" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3294271" />
@@ -411,26 +362,26 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49544272" visible="true" weight="0.33333334" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21028645" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32968536" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49934897" weight="0.32555124" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32909605" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49934897" weight="0.39818418" />
       <window_info id="Learn" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.43079096" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5045573" side_tool="true" weight="0.32814527" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49934897" weight="0.32555124" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49739584" weight="0.3294423" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3294271" />
-      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32909605" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -438,26 +389,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/acmclub/Arbitrage.java</url>
-          <line>24</line>
-          <properties />
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/misc/jobquestions/Symcode.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/misc/googlefoobar/LinesOfStudents.java</url>
-          <line>10</line>
-          <properties />
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="82" />
     </breakpoint-manager>
   </component>
@@ -508,8 +439,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/kattis/R2.py" />
-    <entry file="file://$PROJECT_DIR$/src/codeforces/PlasticineZebra.java" />
     <entry file="file://$PROJECT_DIR$/src/codeforces/DoggoRecoloring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -520,13 +449,7 @@
     <entry file="file://$PROJECT_DIR$/src/kattis/R2.java" />
     <entry file="file://$PROJECT_DIR$/src/kattis/cppr2/r2.cpp" />
     <entry file="file://$USER_HOME$/git/Weekly_Events/2018-08-22/R2.java" />
-    <entry file="file://$PROJECT_DIR$/.classpath">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath" />
     <entry file="file://$PROJECT_DIR$/src/kattis/AbstractArt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -561,23 +484,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codeforces/CppMinimumValueRectangle/MinValRec2.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WeakenedCommonDivisor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tools/GraphInput">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/CppMinimumValueRectangle/MinValRec2.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/WeakenedCommonDivisor.java" />
+    <entry file="file://$PROJECT_DIR$/src/tools/GraphInput" />
     <entry file="file://$PROJECT_DIR$/src/tools/GraphInput.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -585,34 +494,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReachMedian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Packets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ValidBFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Equalize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReachMedian.java" />
+    <entry file="file://$PROJECT_DIR$/src/Packets.java" />
+    <entry file="file://$PROJECT_DIR$/src/ValidBFS.java" />
+    <entry file="file://$PROJECT_DIR$/src/Equalize.java" />
     <entry file="file://$PROJECT_DIR$/src/kattis/Esej.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -641,65 +526,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/acmclub/Arbitrage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codeforces/CppMinimumValueRectangle/MinValRec.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/misc/jobquestions/testData.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/misc/jobquestions/symcode-out.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/misc/jobquestions/symcode-in.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/misc/MontyHall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="72" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/misc/CountingChessEvolved.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/misc/jobquestions/Symcode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;method#encodeFile#0;class#Symcode#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/acmclub/Arbitrage.java" />
+    <entry file="file://$PROJECT_DIR$/src/codeforces/CppMinimumValueRectangle/MinValRec.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/misc/jobquestions/testData.txt" />
+    <entry file="file://$PROJECT_DIR$/src/misc/jobquestions/symcode-out.txt" />
+    <entry file="file://$PROJECT_DIR$/src/misc/jobquestions/symcode-in.txt" />
+    <entry file="file://$PROJECT_DIR$/src/misc/MontyHall.java" />
+    <entry file="file://$PROJECT_DIR$/src/misc/CountingChessEvolved.py" />
+    <entry file="file://$PROJECT_DIR$/src/misc/jobquestions/Symcode.java" />
     <entry file="file://$PROJECT_DIR$/src/tools/Template.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -715,87 +549,34 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/misc/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/src/misc/PolynomialMultiplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/misc/PolynomialMultiplication.java" />
     <entry file="file://$PROJECT_DIR$/src/misc/GooglePractice.java" />
-    <entry file="file://$PROJECT_DIR$/src/misc/googlefoobar/LinesOfStudents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/misc/googlefoobar/CloseHouses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StarArrangements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/misc/googlefoobar/LinesOfStudents.java" />
+    <entry file="file://$PROJECT_DIR$/src/misc/googlefoobar/CloseHouses.java" />
+    <entry file="file://$PROJECT_DIR$/src/StarArrangements.java" />
     <entry file="file://$PROJECT_DIR$/src/acmclub/CanUEscape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+        <state relative-caret-position="138">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_haybales_solutions.zip/accepted/haybales_font.java">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_haybales_solutions.zip/accepted/haybales_font.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_haybales_solutions.zip/accepted/haybales_vanb.java" />
+    <entry file="file://$PROJECT_DIR$/src/JumpingHaybales.java" />
+    <entry file="file://$USER_HOME$/Desktop/haybales_solutions/accepted/haybales_font.java" />
+    <entry file="file://$USER_HOME$/Desktop/haybales_solutions/accepted/haybales_vanb.java" />
+    <entry file="file://$PROJECT_DIR$/src/GenerateSubsetIterative.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="45" column="39" lean-forward="true" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
-          <folding>
-            <element signature="class#FastScanner#0" />
-            <element signature="method#read#0;class#FastScanner#0" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_haybales_solutions.zip/accepted/haybales_vanb.java">
+    <entry file="file://$PROJECT_DIR$/src/GeneratePermutations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JumpingHaybales.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/haybales_solutions/accepted/haybales_font.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
-          <folding>
-            <element signature="e#0#4064#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/haybales_solutions/accepted/haybales_vanb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;class#From#0;class#haybales_vanb#0" />
-          </folding>
+        <state relative-caret-position="221">
+          <caret line="13" column="19" selection-end-line="15" />
         </state>
       </provider>
     </entry>
