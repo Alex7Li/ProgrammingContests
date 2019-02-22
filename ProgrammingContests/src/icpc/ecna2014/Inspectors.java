@@ -1,4 +1,4 @@
-package codeforces;
+package icpc.ecna2014;
 
 import java.io.BufferedReader;
 import java.io.IOException;
