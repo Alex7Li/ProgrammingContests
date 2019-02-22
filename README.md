@@ -2,7 +2,7 @@
 This is my collection of solutions to programming problems.
 It features problems primary from codeforces, with a fair collection of problems
 from kattis and codechef.
-Most problems, and all recent problems, have links in their name leading to the
+Almost all problems have links in their name leading to the
 location of their source. If the link is not there, the source can likely be
 found by using the name of the class and the website (folder name).
 
