@@ -8,7 +8,7 @@ import java.util.*;
 ////http://codeforces.com/contest/1020/problem/C
 public class SergeysProblem {
 
-    public class Node {
+    private class Node {
         int index;
         int ind = 0;
         Node[] edges;
@@ -38,7 +38,7 @@ public class SergeysProblem {
         }
     }
 
-    public void solve() throws IOException {
+    private void solve() throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String[] params = br.readLine().split(" ");
         int n = Integer.parseInt(params[0]);

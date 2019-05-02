@@ -10,6 +10,7 @@ import java.util.Queue;
  * (The xMatching and yMatching field variables are probably not important but there were starting to be too many parameters)
  *
  * Adapted from: https://www.topcoder.com/community/competitive-programming/tutorials/assignment-problem-and-hungarian-algorithm/
+ * Note (This code is bad, but the code at that website is an order of magnitude worse)
  */
 public class HungarianAlgorithm {
     /**

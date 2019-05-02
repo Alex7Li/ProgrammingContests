@@ -19,7 +19,7 @@ public class BipartateEhabEasy {
         System.out.println(l * (n - l) - (n - 1));
     }
 
-    public static Node[] undirectedGraphFromEdgeList(BufferedReader br, int n, int m) throws IOException {
+    private static Node[] undirectedGraphFromEdgeList(BufferedReader br, int n, int m) throws IOException {
         Node[] nodes = new Node[n];
         for (int i = 0; i < n; i++) {
             nodes[i] = new Node();
@@ -47,7 +47,7 @@ public class BipartateEhabEasy {
         return nodes;
     }
 
-    public static class Node {
+    private static class Node {
         int ind = 0;
         Node[] edges;
         int color;

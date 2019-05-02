@@ -89,7 +89,7 @@ public class SleepyGame {
 			return new StringBuilder();
 		}
 	}
-	public static class Node {
+	private static class Node {
 		List<Node> edges = new ArrayList<Node>();
 		int index;
 		boolean seen;

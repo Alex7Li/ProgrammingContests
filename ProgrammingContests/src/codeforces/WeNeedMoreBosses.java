@@ -24,7 +24,7 @@ public class WeNeedMoreBosses {
         System.out.println(furthest(s).dist);
     }
 
-    public static class Node {
+    private static class Node {
         Node[] edges;
         int ind = 0;
         Set<Node> nonBridges = new HashSet<>();
@@ -33,7 +33,7 @@ public class WeNeedMoreBosses {
 
         // fill up nonBridges with edges that aren't bridges
         // return the set of nodes that have stopped the dfs
-        public Set<Node> findBridges(Node from) {
+        private Set<Node> findBridges(Node from) {
             seen = true;
             Set<Node> endCycle = new HashSet<>();
             for (Node e : edges) {
@@ -61,7 +61,7 @@ public class WeNeedMoreBosses {
     /**
      * Return a node furthest from start
      */
-    public static Node furthest(Node start) {
+    private static Node furthest(Node start) {
         Queue<Node> Q = new PriorityQueue<>((o1, o2) -> o1.dist - o2.dist);
         Q.add(start);
         start.dist = 0;
@@ -89,7 +89,7 @@ public class WeNeedMoreBosses {
      * Store the results as nodes with Node[] edges.
      * (Assumes edges are 1-indexed)
      */
-    public static Node[] undirectedGraphFromEdgeList(BufferedReader br, int n, int m) throws IOException {
+    private static Node[] undirectedGraphFromEdgeList(BufferedReader br, int n, int m) throws IOException {
         Node[] nodes = new Node[n];
         for (int i = 0; i < n; i++) {
             nodes[i] = new Node();

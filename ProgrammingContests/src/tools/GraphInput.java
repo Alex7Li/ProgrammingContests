@@ -8,16 +8,22 @@ import java.util.Arrays;
 public class GraphInput {
     /**
      * Return sorted 2D array of edges
-     * (Assumes edges are 1-indexed)
+     *
+     * @param oneIndexed: if true, the input is given as 1-indexed, otherwise,
+     *                    it is given as 0-indexed. Either way, this method returns
+     *                    only 0-indexed arrays
      */
-    public static int[][] readAdjList(BufferedReader br, int n, int m) throws IOException {
-        n++;
+    private static int[][] readAdjList(BufferedReader br, int n, int m, boolean oneIndexed) throws IOException {
         int[] counts = new int[n];
         int[][] edges = new int[m][2];
         for (int i = 0; i < m; i++) {
             String[] edge = br.readLine().split(" ");
             int a = Integer.parseInt(edge[0]);
             int b = Integer.parseInt(edge[1]);
+            if (oneIndexed) {
+                a--;
+                b--;
+            }
             edges[i][0] = a;
             edges[i][1] = b;
             counts[a]++;
@@ -27,11 +33,11 @@ public class GraphInput {
         for (int i = 0; i < n; i++) {
             adjList[i] = new int[counts[i]];
         }
-        for (int i = 0; i < edges.length; i++) {
-            adjList[edges[i][0]][--counts[edges[i][0]]] = edges[i][1];
-            adjList[edges[i][1]][--counts[edges[i][1]]] = edges[i][0];
+        for (int[] edge:edges) {
+            adjList[edge[0]][--counts[edge[0]]] = edge[1];
+            adjList[edge[1]][--counts[edge[1]]] = edge[0];
         }
-        //for debugging ease
+        // not necessary, but will make debugging easier
         for (int i = 0; i < n; i++) {
             Arrays.sort(adjList[i]);
         }
@@ -39,7 +45,7 @@ public class GraphInput {
     }
     //--------------------------Alternate Input Method----------------------------------------//
 
-    public static class Node {
+    private static class Node {
         // 0-indexed index of the node in the Node[] returned from undirectedGraphFromEdgeList
         int ind;
         // number of edges.
@@ -53,7 +59,7 @@ public class GraphInput {
      * Store the results as nodes with Node[] edges.
      * (Assumes edges from input are 1-indexed)
      */
-    public static Node[] readGraph(BufferedReader br, int n, int m) throws IOException {
+    private static Node[] readGraph(BufferedReader br, int n, int m) throws IOException {
         Node[] nodes = new Node[n];
         for (int i = 0; i < n; i++) {
             nodes[i] = new Node();
@@ -84,7 +90,7 @@ public class GraphInput {
     }
     //--------------------------Weighted Graph----------------------------------------//
 
-    public static class Edge {
+    private static class Edge {
         // the other node this edge connects to (the first is the index is adjList)
         int dest;
         // the weight of this edge in the graph
@@ -102,7 +108,7 @@ public class GraphInput {
      * Input should be m lines of vertex 1 and 2, then weights: v1 v2 w
      * (Assumes edges from input are 1-indexed)
      */
-    public static Edge[][] readWeightedGraph(BufferedReader br, int n, int m) throws IOException {
+    private static Edge[][] readWeightedGraph(BufferedReader br, int n, int m) throws IOException {
         Edge[][] adjList = new Edge[n][];
         int[] counts = new int[n];
         int[][] edges = new int[m][3];

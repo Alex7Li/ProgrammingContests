@@ -2,34 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="865ea030-bfd0-41f8-b918-ab0757d7e46a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/acmclub/escapeInput.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/atcoder/DigitsSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/atcoder/RGBColoring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/brilliant/FixedPoint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/brilliant/PolynomialCipher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/brilliant/Waterflow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/googlecontest/CONTESTLINK.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/googlefoobar/BrailleTranslation2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/googlefoobar/CONTESTLINK.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/hsctf/CONTESTLINK.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/hsctf/CountingPartitions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/hsctf/Keith.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/hsctf/KeithArithmetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/production/ProgrammingContests/misc/hsctf/VerySmallPrimes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ProgrammingContests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingContests.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/BuggyRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/BuggyRobot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeforces/BeautifulGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/BeautifulGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeforces/BipartateEhabEasy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/BipartateEhabEasy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeforces/ChemicalTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/ChemicalTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeforces/ColorfulBricks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/ColorfulBricks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeforces/DominantIndicies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/DominantIndicies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeforces/MinimalDiameterForest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/MinimalDiameterForest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeforces/MinimumDiameterTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/MinimumDiameterTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeforces/SergeysProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/SergeysProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeforces/SleepyGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/SleepyGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeforces/WeNeedMoreBosses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/WeNeedMoreBosses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codeforces/_IntersectingSubtrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/_IntersectingSubtrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/misc/googlefoobar/DistractTheGuards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/misc/googlefoobar/DistractTheGuards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/GraphInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/GraphInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/NumberTheory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/NumberTheory.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,26 +31,7 @@
     <SUITE FILE_PATH="coverage/ProgrammingContests$NewBuildingForSIS.ic" NAME="NewBuildingForSIS Coverage Results" MODIFIED="1533995236226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GeneratePermutations.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/GeneratePermutations.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="19" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenerateSubsetIterative.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GenerateSubsetIterative.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -136,9 +108,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="951" />
-    <option name="width" value="978" />
-    <option name="height" value="1089" />
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -169,7 +141,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/git/Datafest2019" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -205,6 +178,48 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.GeneratePermutations">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration name="JumpingHaybales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JumpingHaybales" />
       <module name="ProgrammingContests" />
@@ -258,48 +273,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.GeneratePermutations" />
@@ -334,63 +310,54 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21017845" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32968536" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5045573" side_tool="true" weight="0.32814527" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="8" weight="0.328877" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49544272" weight="0.33556148" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21003963" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.43048128" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49934897" weight="0.32555124" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49544272" weight="0.33556148" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49934897" weight="0.39818418" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32968536" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.42971888" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5045573" side_tool="true" weight="0.32814527" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49739584" weight="0.3294423" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.328877" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Learn" order="2" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49739584" weight="0.3294423" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49934897" weight="0.32555124" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3294271" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49544272" visible="true" weight="0.33333334" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21028645" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32968536" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49934897" weight="0.39818418" />
       <window_info id="Learn" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49934897" weight="0.32555124" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49544272" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49934897" weight="0.39818418" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32968536" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.43079096" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5045573" side_tool="true" weight="0.32814527" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49934897" weight="0.32555124" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49739584" weight="0.3294423" />
-      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3294271" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32909605" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3294271" />
     </layout-to-restore>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="82" />
-    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
@@ -534,13 +501,7 @@
     <entry file="file://$PROJECT_DIR$/src/misc/MontyHall.java" />
     <entry file="file://$PROJECT_DIR$/src/misc/CountingChessEvolved.py" />
     <entry file="file://$PROJECT_DIR$/src/misc/jobquestions/Symcode.java" />
-    <entry file="file://$PROJECT_DIR$/src/tools/Template.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tools/Template.java" />
     <entry file="file://$PROJECT_DIR$/src/codeforces/RainAndUmbrella.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -566,20 +527,8 @@
     <entry file="file://$PROJECT_DIR$/src/JumpingHaybales.java" />
     <entry file="file://$USER_HOME$/Desktop/haybales_solutions/accepted/haybales_font.java" />
     <entry file="file://$USER_HOME$/Desktop/haybales_solutions/accepted/haybales_vanb.java" />
-    <entry file="file://$PROJECT_DIR$/src/GenerateSubsetIterative.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GeneratePermutations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="19" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenerateSubsetIterative.java" />
+    <entry file="file://$PROJECT_DIR$/src/GeneratePermutations.py" />
   </component>
   <component name="masterDetails">
     <states>

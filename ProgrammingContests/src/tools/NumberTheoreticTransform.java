@@ -4,8 +4,6 @@ package tools;
  * this is it. the fft you've always dreamed of (:
  * METHOD LIST:
  * long bitReverse(int n, int k)
- * long modPow(long a, long p)
- * long modInv(long a)
  * long[] calcRoots(int k, boolean inverse)
  * long[] reorderArray(long[] a, int k)
  * long[] numberTheoreticTransform(long[] coef, int k, boolean inverse)
@@ -28,34 +26,12 @@ public class NumberTheoreticTransform {
     }
 
     /**
-     * return a^p (mod MOD)
-     */
-    private static long modPow(long a, long p) {
-        if (p == 0) {
-            return 1;
-        }
-        long half = modPow(a, p / 2);
-        long ans = (half * half) % MOD;
-        if (p % 2 == 1) {
-            ans = (ans * a) % MOD;
-        }
-        return ans;
-    }
-
-    /*
-     * return x such that x*a = 1 (mod MOD). Requires that MOD is prime
-     */
-    private static long modInv(long a) {
-        return modPow(a, MOD - 2);
-    }
-
-    /**
      * calculate roots of unity for ntt
      */
     private static long[] calcRoots(int k, boolean inverse) {
-        long root = modPow(ROOT, modPow(2, twoPow - k));
+        long root = NumberTheory.modPow(ROOT, NumberTheory.modPow(2, twoPow - k));
         if (inverse) {
-            root = modInv(root);
+            root = NumberTheory.modInv(root);
         }
         long[] roots = new long[k];
         roots[k - 1] = root;

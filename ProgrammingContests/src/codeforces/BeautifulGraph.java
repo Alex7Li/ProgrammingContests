@@ -32,7 +32,7 @@ public class BeautifulGraph {
         bw.flush();
     }
 
-    public static class Node {
+    private static class Node {
         int ind = 0;
         Node[] edges;
         int n_edge;

@@ -20,7 +20,6 @@ public class ColorfulBricks {
         for (int i = 1; i < n; i++) {
             for (int j = 1; j < k + 1; j++) {
                 ways[j][i] = (ways[j - 1][i - 1] * (m - 1) + ways[j][i - 1]) % MOD;
-
             }
         }
         System.out.println(ways[k][n - 1]);

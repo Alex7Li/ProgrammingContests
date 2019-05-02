@@ -45,7 +45,7 @@ public class DominantIndicies {
         pw.close();
     }
 
-    public static class Node {
+    private static class Node {
         private List<Node> connected = new ArrayList<>();
         private List<Integer> depthArr;
         private int domIndr = 0;

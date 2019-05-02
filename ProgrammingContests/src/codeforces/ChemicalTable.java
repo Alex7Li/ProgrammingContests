@@ -34,7 +34,7 @@ public class ChemicalTable {
         System.out.println(count);
     }
 
-    public static class Node {
+    private static class Node {
         ArrayList<Node> connected = new ArrayList<>();
         boolean seen = false;
 

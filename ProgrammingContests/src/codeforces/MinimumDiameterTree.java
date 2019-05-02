@@ -24,7 +24,7 @@ public class MinimumDiameterTree {
         br.close();
     }
 
-    public static class Node {
+    private static class Node {
         // 0-indexed index of the node in the Node[] returned from undirectedGraphFromEdgeList
         int ind;
         // number of edges.
@@ -38,7 +38,7 @@ public class MinimumDiameterTree {
      * Store the results as nodes with Node[] edges.
      * (Assumes edges from input are 1-indexed)
      */
-    public static Node[] undirectedGraphFromEdgeList(BufferedReader br, int n, int m) throws IOException {
+    private static Node[] undirectedGraphFromEdgeList(BufferedReader br, int n, int m) throws IOException {
         Node[] nodes = new Node[n];
         for (int i = 0; i < n; i++) {
             nodes[i] = new Node();

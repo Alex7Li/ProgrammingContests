@@ -58,7 +58,7 @@ public class DistractTheGuards {
         return count;
     }
 
-    public static class Node {
+    private static class Node {
         Node pair = null;
         int index;
         Collection<Node> distractors = new ArrayList<>();
