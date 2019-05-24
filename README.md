@@ -5,8 +5,11 @@ from kattis and codechef.
 Almost all problems have links in their name leading to the
 location of their source. If the link is not there, the source can likely be
 found by using the name of the class and the website (folder name).
+I organized it into categories so that I can find problems relating to a certain
+topic easily. Of course, many problems fit in other categories just as
+well or better.  
 
-The first commit was around August 2017.
+
 # Useful Resources 
 Resources for Others interested in Competitive Programming, sorted in order of usefulness
 
@@ -15,3 +18,4 @@ It's also here https://cses.fi/book.pdf
 
 Here is a large chat with many competitive programmers
 https://discord.gg/9YxxaaQ
+

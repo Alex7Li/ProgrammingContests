@@ -1,0 +1,1 @@
+Problems that have a solution, but implementing the solution requires cleverness.
