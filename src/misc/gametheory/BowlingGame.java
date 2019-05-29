@@ -2,6 +2,7 @@ package misc.gametheory;
 
 import java.util.*;
 
+// https://www.codechef.com/problems/G1
 // TLE but it only gives .5 seconds so I'm not going to even try to optimize it
 class BowlingGame {
     private static int[] grundy;
