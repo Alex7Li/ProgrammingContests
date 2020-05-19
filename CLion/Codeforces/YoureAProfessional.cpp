@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-//https://codeforces.com/contest/656/problem/G
+
 using namespace std;
 # define rep(i, a, b) for(int i = a; i < (b); ++i)
 
