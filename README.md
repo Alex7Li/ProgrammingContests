@@ -9,7 +9,7 @@ I organized it into categories so that I can find problems relating to a certain
 topic easily. Of course, many problems fit in other categories just as
 well or better.  
 
-Update: This repo is now a bit of a mess, I tried to organize it but there were about 1000 files so I quickly got tired, then I tried to make a new repo with a new organization system... then later I swtiched to C++ and had another repo and went back to the first organization system... so yeah it's not looking great.
+Update: This repo is now a bit of a mess, I tried to organize it but there were about 1000 files so I quickly got tired, then I tried to make a new repo with a new organization system... then later I swtiched to C++ and had another repo and went back to the first organization system... so yeah it's not looking great. Cool news though, we've got about 100,000 lines of hard competitive programming problem code!
 
 # Useful Resources 
 Resources for Others interested in Competitive Programming, sorted in order of usefulness
