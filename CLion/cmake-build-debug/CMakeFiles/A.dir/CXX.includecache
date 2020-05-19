@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alex Li/CLionProjects/ICPCTraining/GameWithArray.cpp
+bits/stdc++.h
+-
+
+C:/Users/Alex Li/CLionProjects/ICPCTraining/SequenceWithDigits.cpp
+bits/stdc++.h
+-
+
