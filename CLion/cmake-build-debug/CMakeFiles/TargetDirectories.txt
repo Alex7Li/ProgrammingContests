@@ -1,3 +1,0 @@
-C:/Users/Alex Li/CLionProjects/ProgrammingContests/CLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Alex Li/CLionProjects/ProgrammingContests/CLion/cmake-build-debug/CMakeFiles/is.dir
-C:/Users/Alex Li/CLionProjects/ProgrammingContests/CLion/cmake-build-debug/CMakeFiles/edit_cache.dir

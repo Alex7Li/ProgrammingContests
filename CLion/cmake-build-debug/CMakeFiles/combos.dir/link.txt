@@ -1,3 +1,0 @@
-"C:\Users\Alex Li\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.6948.80\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\combos.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\combos.dir/objects.a @CMakeFiles\combos.dir\objects1.rsp
-C:\MinGW\bin\mingw32-g++.exe -g   -Wl,--whole-archive CMakeFiles\combos.dir/objects.a -Wl,--no-whole-archive  -o combos.exe -Wl,--out-implib,libcombos.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\combos.dir\linklibs.rsp

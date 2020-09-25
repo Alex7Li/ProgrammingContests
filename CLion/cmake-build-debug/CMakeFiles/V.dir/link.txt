@@ -1,3 +1,0 @@
-"C:\Users\Alex Li\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.6397.106\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\V.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\V.dir/objects.a @CMakeFiles\V.dir\objects1.rsp
-C:\MinGW\bin\mingw32-g++.exe -g   -Wl,--whole-archive CMakeFiles\V.dir/objects.a -Wl,--no-whole-archive  -o V.exe -Wl,--out-implib,libV.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\V.dir\linklibs.rsp
