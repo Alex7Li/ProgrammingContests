@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alex Li/CLionProjects/ProgrammingContests/CLion/HashIntern/HashCodeGoogleInterns.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+fstream
+-
+unordered_set
+-
+unordered_map
+-
+

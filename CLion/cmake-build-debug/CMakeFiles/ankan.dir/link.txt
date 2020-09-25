@@ -1,0 +1,3 @@
+"C:\Users\Alex Li\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.6948.80\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ankan.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\ankan.dir/objects.a @CMakeFiles\ankan.dir\objects1.rsp
+C:\MinGW\bin\mingw32-g++.exe -g   -Wl,--whole-archive CMakeFiles\ankan.dir/objects.a -Wl,--no-whole-archive  -o ankan.exe -Wl,--out-implib,libankan.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ankan.dir\linklibs.rsp

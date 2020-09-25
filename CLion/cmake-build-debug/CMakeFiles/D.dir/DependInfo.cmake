@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Alex Li/CLionProjects/ICPCTraining/RestorerDistance.cpp" "C:/Users/Alex Li/CLionProjects/ICPCTraining/cmake-build-debug/CMakeFiles/D.dir/RestorerDistance.cpp.obj"
+  "C:/Users/Alex Li/CLionProjects/ProgrammingContests/CLion/671d.cpp" "C:/Users/Alex Li/CLionProjects/ProgrammingContests/CLion/cmake-build-debug/CMakeFiles/d.dir/671d.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

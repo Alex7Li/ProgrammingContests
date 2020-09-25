@@ -4,8 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Alex Li/CLionProjects/ICPCTraining/CountTriangles.cpp" "C:/Users/Alex Li/CLionProjects/ICPCTraining/cmake-build-debug/CMakeFiles/C.dir/CountTriangles.cpp.obj"
-  "C:/Users/Alex Li/CLionProjects/ICPCTraining/IncrementalHouseOfPancakes.cpp" "C:/Users/Alex Li/CLionProjects/ICPCTraining/cmake-build-debug/CMakeFiles/C.dir/IncrementalHouseOfPancakes.cpp.obj"
+  "C:/Users/Alex Li/CLionProjects/ProgrammingContests/CLion/671c.cpp" "C:/Users/Alex Li/CLionProjects/ProgrammingContests/CLion/cmake-build-debug/CMakeFiles/c.dir/671c.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

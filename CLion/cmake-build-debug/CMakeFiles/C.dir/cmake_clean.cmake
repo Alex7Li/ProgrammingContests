@@ -1,13 +1,12 @@
 file(REMOVE_RECURSE
-  "C.exe"
-  "C.exe.manifest"
-  "C.pdb"
-  "CMakeFiles/C.dir/CountTriangles.cpp.obj"
-  "CMakeFiles/C.dir/IncrementalHouseOfPancakes.cpp.obj"
-  "libC.dll.a"
+  "CMakeFiles/c.dir/671c.cpp.obj"
+  "c.exe"
+  "c.exe.manifest"
+  "c.pdb"
+  "libc.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
 foreach(lang CXX)
-  include(CMakeFiles/C.dir/cmake_clean_${lang}.cmake OPTIONAL)
+  include(CMakeFiles/c.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()
