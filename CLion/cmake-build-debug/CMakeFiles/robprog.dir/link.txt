@@ -1,0 +1,3 @@
+"C:\Users\Alex Li\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7660.37\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\robprog.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\robprog.dir/objects.a @CMakeFiles\robprog.dir\objects1.rsp
+C:\MinGW\bin\mingw32-g++.exe -g   -Wl,--whole-archive CMakeFiles\robprog.dir/objects.a -Wl,--no-whole-archive  -o robprog.exe -Wl,--out-implib,librobprog.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\robprog.dir\linklibs.rsp
