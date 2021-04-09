@@ -1,3 +1,0 @@
-"C:\Users\Alex Li\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7660.37\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\kgc.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\kgc.dir/objects.a @CMakeFiles\kgc.dir\objects1.rsp
-C:\MinGW\bin\mingw32-g++.exe -g   -Wl,--whole-archive CMakeFiles\kgc.dir/objects.a -Wl,--no-whole-archive  -o kgc.exe -Wl,--out-implib,libkgc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\kgc.dir\linklibs.rsp

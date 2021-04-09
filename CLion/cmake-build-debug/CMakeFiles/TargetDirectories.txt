@@ -1,8 +1,0 @@
-C:/Users/Alex Li/CLionProjects/ProgrammingContests/CLion/cmake-build-debug/CMakeFiles/A.dir
-C:/Users/Alex Li/CLionProjects/ProgrammingContests/CLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Alex Li/CLionProjects/ProgrammingContests/CLion/cmake-build-debug/CMakeFiles/B.dir
-C:/Users/Alex Li/CLionProjects/ProgrammingContests/CLion/cmake-build-debug/CMakeFiles/C.dir
-C:/Users/Alex Li/CLionProjects/ProgrammingContests/CLion/cmake-build-debug/CMakeFiles/D.dir
-C:/Users/Alex Li/CLionProjects/ProgrammingContests/CLion/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Alex Li/CLionProjects/ProgrammingContests/CLion/cmake-build-debug/CMakeFiles/E.dir
-C:/Users/Alex Li/CLionProjects/ProgrammingContests/CLion/cmake-build-debug/CMakeFiles/F.dir

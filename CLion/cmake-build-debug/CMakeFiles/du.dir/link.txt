@@ -1,3 +1,0 @@
-"C:\Users\Alex Li\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7660.37\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\du.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\du.dir/objects.a @CMakeFiles\du.dir\objects1.rsp
-C:\MinGW\bin\mingw32-g++.exe -g   -Wl,--whole-archive CMakeFiles\du.dir/objects.a -Wl,--no-whole-archive  -o du.exe -Wl,--out-implib,libdu.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\du.dir\linklibs.rsp
