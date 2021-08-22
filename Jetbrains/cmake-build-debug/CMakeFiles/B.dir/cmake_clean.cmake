@@ -2,7 +2,7 @@ file(REMOVE_RECURSE
   "B.exe"
   "B.exe.manifest"
   "B.pdb"
-  "CMakeFiles/B.dir/ButtonLock.cpp.obj"
+  "CMakeFiles/B.dir/B.cpp.obj"
   "libB.dll.a"
 )
 

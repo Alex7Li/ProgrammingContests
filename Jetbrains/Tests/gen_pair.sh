@@ -4,8 +4,8 @@ n=${2-10}
 # For i from 1 to the 3rd arg, or 10
 for ((i=1; i <= $n; i++))
 do
-  A="./Input/gen${i}.txt"
-  B="./Output/gen${i}.txt"
+  A="./Input/gen${i}.in"
+  B="./Output/gen${i}.ans"
   echo "Generating file ${A}"
 
   echo $i | ./gen.exe > $A 2> $B
