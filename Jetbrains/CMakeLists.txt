@@ -2,10 +2,10 @@ cmake_minimum_required(VERSION 3.15)
 project(CLion)
 
 set(CMAKE_CXX_STANDARD 17)
-set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -Wextra -Wno-sign-compare -D _GLIBCXX_DEBUG -D _GLIBCXX_DEBUG_PEDANTIC ")
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -Wextra -Wno-sign-compare -D _GLIBCXX_DEBUG -D _GLIBCXX_DEBUG_PEDANTIC")
 
 
-add_executable(B ButtonLock.cpp)
+add_executable(Codeforces/1560E.cpp Codeforces/1560E.cpp)
 
 if (FALSE)
     add_executable(A A.cpp)

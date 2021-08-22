@@ -1,3 +1,0 @@
-"C:\Users\Alex Li\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.6693.114\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\B.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\B.dir/objects.a @CMakeFiles\B.dir\objects1.rsp
-C:\MinGW\bin\mingw32-g++.exe  -Wall -Wextra -Wno-sign-compare -D _GLIBCXX_DEBUG -D _GLIBCXX_DEBUG_PEDANTIC  -g -Wl,--whole-archive CMakeFiles\B.dir/objects.a -Wl,--no-whole-archive -o B.exe -Wl,--out-implib,libB.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\B.dir\linklibs.rsp
