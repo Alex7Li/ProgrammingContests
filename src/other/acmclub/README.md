@@ -1,1 +1,0 @@
-Problems done for my school ACM club.

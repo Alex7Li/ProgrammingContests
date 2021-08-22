@@ -1,4 +1,0 @@
-"C:\Users\Alex Li\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.4746.93\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/MinGW/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/MinGW/bin/mingw32-gcc.exe -DCMAKE_CXX_COMPILER=C:/MinGW/bin/mingw32-g++.exe -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "C:\Users\Alex Li\git\ProgrammingContests\Jetbrains"
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/Alex Li/git/ProgrammingContests/Jetbrains/cmake-build-debug
