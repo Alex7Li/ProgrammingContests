@@ -1,9 +1,4 @@
-/snap/clion/162/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/alex/git/ProgrammingContests/Jetbrains
-CMake Error at CMakeLists.txt:8 (add_executable):
-  The target name "Codeforces/1560E.cpp" is reserved or not valid for certain
-  CMake features, such as generator expressions, and may result in undefined
-  behavior.
-
-
--- Configuring incomplete, errors occurred!
-See also "/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+/snap/clion/163/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/alex/git/ProgrammingContests/Jetbrains
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug

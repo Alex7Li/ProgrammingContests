@@ -27,6 +27,182 @@
 					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="E">
+				<Option output="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/E" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 E"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="E/fast">
+				<Option output="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/E" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 E/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="A">
+				<Option output="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/A" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 A"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="A/fast">
+				<Option output="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/A" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 A/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B">
+				<Option output="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 B"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B/fast">
+				<Option output="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 B/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C">
+				<Option output="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 C"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C/fast">
+				<Option output="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 C/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug"/>
 				<Option type="4"/>
@@ -37,8 +213,8 @@
 					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="1560E.cpp">
-				<Option output="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/1560E.cpp" prefix_auto="0" extension_auto="0"/>
+			<Target title="D">
+				<Option output="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/D" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -53,14 +229,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 1560E.cpp"/>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 D"/>
 					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="1560E.cpp/fast">
-				<Option output="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/1560E.cpp" prefix_auto="0" extension_auto="0"/>
+			<Target title="D/fast">
+				<Option output="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/D" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -75,15 +251,27 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 1560E.cpp/fast"/>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 D/fast"/>
 					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/alex/git/ProgrammingContests/Jetbrains/1560E.cpp">
-			<Option target="1560E.cpp"/>
+		<Unit filename="/home/alex/git/ProgrammingContests/Jetbrains/A.cpp">
+			<Option target="A"/>
+		</Unit>
+		<Unit filename="/home/alex/git/ProgrammingContests/Jetbrains/B.cpp">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="/home/alex/git/ProgrammingContests/Jetbrains/C.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/home/alex/git/ProgrammingContests/Jetbrains/D.cpp">
+			<Option target="D"/>
+		</Unit>
+		<Unit filename="/home/alex/git/ProgrammingContests/Jetbrains/E.cpp">
+			<Option target="E"/>
 		</Unit>
 		<Unit filename="/home/alex/git/ProgrammingContests/Jetbrains/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

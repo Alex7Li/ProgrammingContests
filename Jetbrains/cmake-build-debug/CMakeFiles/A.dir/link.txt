@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wno-sign-compare -D _GLIBCXX_DEBUG -D _GLIBCXX_DEBUG_PEDANTIC -g CMakeFiles/A.dir/A.cpp.o -o A 

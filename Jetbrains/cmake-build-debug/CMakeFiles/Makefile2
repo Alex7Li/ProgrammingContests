@@ -45,10 +45,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /snap/clion/162/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /snap/clion/163/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /snap/clion/162/bin/cmake/linux/bin/cmake -E rm -f
+RM = /snap/clion/163/bin/cmake/linux/bin/cmake -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -63,7 +63,11 @@ CMAKE_BINARY_DIR = /home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debu
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/1560E.cpp.dir/all
+all: CMakeFiles/E.dir/all
+all: CMakeFiles/A.dir/all
+all: CMakeFiles/B.dir/all
+all: CMakeFiles/C.dir/all
+all: CMakeFiles/D.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -71,34 +75,142 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/1560E.cpp.dir/clean
+clean: CMakeFiles/E.dir/clean
+clean: CMakeFiles/A.dir/clean
+clean: CMakeFiles/B.dir/clean
+clean: CMakeFiles/C.dir/clean
+clean: CMakeFiles/D.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/1560E.cpp.dir
+# Target rules for target CMakeFiles/E.dir
 
 # All Build rule for target.
-CMakeFiles/1560E.cpp.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/1560E.cpp.dir/build.make CMakeFiles/1560E.cpp.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/1560E.cpp.dir/build.make CMakeFiles/1560E.cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 1560E.cpp"
-.PHONY : CMakeFiles/1560E.cpp.dir/all
+CMakeFiles/E.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/E.dir/build.make CMakeFiles/E.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/E.dir/build.make CMakeFiles/E.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles --progress-num=9,10 "Built target E"
+.PHONY : CMakeFiles/E.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/1560E.cpp.dir/rule: cmake_check_build_system
+CMakeFiles/E.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/1560E.cpp.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/E.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/1560E.cpp.dir/rule
+.PHONY : CMakeFiles/E.dir/rule
 
 # Convenience name for target.
-1560E.cpp: CMakeFiles/1560E.cpp.dir/rule
-.PHONY : 1560E.cpp
+E : CMakeFiles/E.dir/rule
+.PHONY : E
 
 # clean rule for target.
-CMakeFiles/1560E.cpp.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/1560E.cpp.dir/build.make CMakeFiles/1560E.cpp.dir/clean
-.PHONY : CMakeFiles/1560E.cpp.dir/clean
+CMakeFiles/E.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/E.dir/build.make CMakeFiles/E.dir/clean
+.PHONY : CMakeFiles/E.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/A.dir
+
+# All Build rule for target.
+CMakeFiles/A.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A.dir/build.make CMakeFiles/A.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A.dir/build.make CMakeFiles/A.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target A"
+.PHONY : CMakeFiles/A.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/A.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/A.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/A.dir/rule
+
+# Convenience name for target.
+A : CMakeFiles/A.dir/rule
+.PHONY : A
+
+# clean rule for target.
+CMakeFiles/A.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/A.dir/build.make CMakeFiles/A.dir/clean
+.PHONY : CMakeFiles/A.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/B.dir
+
+# All Build rule for target.
+CMakeFiles/B.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/B.dir/build.make CMakeFiles/B.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/B.dir/build.make CMakeFiles/B.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target B"
+.PHONY : CMakeFiles/B.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/B.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/B.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/B.dir/rule
+
+# Convenience name for target.
+B : CMakeFiles/B.dir/rule
+.PHONY : B
+
+# clean rule for target.
+CMakeFiles/B.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/B.dir/build.make CMakeFiles/B.dir/clean
+.PHONY : CMakeFiles/B.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/C.dir
+
+# All Build rule for target.
+CMakeFiles/C.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles --progress-num=5,6 "Built target C"
+.PHONY : CMakeFiles/C.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/C.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/C.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/C.dir/rule
+
+# Convenience name for target.
+C : CMakeFiles/C.dir/rule
+.PHONY : C
+
+# clean rule for target.
+CMakeFiles/C.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/clean
+.PHONY : CMakeFiles/C.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/D.dir
+
+# All Build rule for target.
+CMakeFiles/D.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/D.dir/build.make CMakeFiles/D.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/D.dir/build.make CMakeFiles/D.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles --progress-num=7,8 "Built target D"
+.PHONY : CMakeFiles/D.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/D.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/D.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/D.dir/rule
+
+# Convenience name for target.
+D : CMakeFiles/D.dir/rule
+.PHONY : D
+
+# clean rule for target.
+CMakeFiles/D.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/D.dir/build.make CMakeFiles/D.dir/clean
+.PHONY : CMakeFiles/D.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

@@ -1,3 +1,7 @@
 /home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles/E.dir
+/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles/A.dir
+/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles/B.dir
+/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles/C.dir
 /home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles/1560E.cpp.dir
+/home/alex/git/ProgrammingContests/Jetbrains/cmake-build-debug/CMakeFiles/D.dir
