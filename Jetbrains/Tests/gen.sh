@@ -7,13 +7,13 @@ fi
 # For i from 1 to the 2rd arg, or 10
 for ((i=1; i <= $n; i++))
 do
-  A="Input/gen${i}.txt"
+  A="Input/gen${i}.in"
   echo "Generating file ${A}"
   echo $i | ./gen.exe > $A
 
   if [ $# -eq 3 ]; then
-    B="Output/gen${i}.txt"
-    ./alg2.exe < $A > $B
+    B="Output/gen${i}.ans"
+    ./alg.exe < $A > $B
   fi
 done
 rm -f gen.exe

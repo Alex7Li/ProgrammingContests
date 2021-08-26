@@ -8,10 +8,10 @@ fi
 cd Input
 for filename in *; do
   echo "Running on file " $filename
-  O="../CodeOutputs/${filename}"
+  O="../CodeOutputs/${filename/\.in/\.out}"
   ../alg1.exe < $filename > $O
 
-  outFile="../Output/${filename}"
+  outFile="../Output/${filename/\.in/\.ans}"
 
   if [ $# -eq 2 ]; then
     ../alg2.exe < $filename > $outFile

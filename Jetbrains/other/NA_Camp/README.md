@@ -1,0 +1,1 @@
+https://napc21.kattis.com/courses/NAPC/2021

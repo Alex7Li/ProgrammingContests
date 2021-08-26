@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -Wno-sign-compare -D _GLIBCXX_DEBUG -D _GLIBCXX_DEBUG_PEDANTIC -g CMakeFiles/1560E.cpp.dir/1560E.cpp.o -o 1560E.cpp 
