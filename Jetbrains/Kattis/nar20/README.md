@@ -1,1 +1,0 @@
-https://open.kattis.com/contests/nar20practice2/standings

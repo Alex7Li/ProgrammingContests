@@ -1,1 +1,0 @@
-https://dmoj.ca/contest/aac3
