@@ -14,5 +14,6 @@ public class IfAtFirstYouDontSucceed {
         } else {
             System.out.println(-1);
         }
+        sc.close();
     }
 }

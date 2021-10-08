@@ -23,5 +23,6 @@ public class LunarNewYearAndCrossCounting {
             }
         }
         System.out.println(count);
+        sc.close();
     }
 }

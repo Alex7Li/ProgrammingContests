@@ -13,5 +13,6 @@ public class Innohorse {
         int min = Math.min(x,y);
         int max = Math.max(x,y);
         System.out.println(min + " " + max);
+        sc.close();
     }
 }

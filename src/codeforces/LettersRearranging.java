@@ -29,5 +29,6 @@ public class LettersRearranging {
                 System.out.println(-1);
             }
         }
+        sc.close();
     }
 }
