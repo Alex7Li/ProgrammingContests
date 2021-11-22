@@ -1,0 +1,18 @@
+This file was created on 4/24/2019 to document very hard to see bugs that I've seen.
+------------------------------------------------------------------------------------
+File: NekoAndFlashBack  Date: 4/24/2019
+Trying to read 2 input arrays b and c as edges of a graph. The graph is not simple,
+which is why we are using a MultiSet.
+What's the problem with this code?
+for (int i = 0; i < n; i++) {
+    MultiSet bMultiSet = edges.getOrDefault(b[i], new MultiSet());
+    MultiSet cMultiSet = edges.getOrDefault(c[i], new MultiSet());
+    cMultiSet.add(b[i]);
+    bMultiSet.add(c[i]);
+    edges.put(b[i], bMultiSet);
+    edges.put(c[i], cMultiSet);
+}
+-------------------------------------------------------------------------------------
+File: ClosestCircleDistanceMatrix
+I assumed the points on the circle were arranged in clockwise order implicitly,
+but in fact this is untrue.

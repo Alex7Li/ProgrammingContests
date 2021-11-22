@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Jetbrains.iml" filepath="$PROJECT_DIR$/.idea/Jetbrains.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingContests.iml" filepath="$PROJECT_DIR$/ProgrammingContests.iml" />
+>>>>>>> 7e9a7d5b1c23d2aeaccdc0b8115c5bae43bdd63e
     </modules>
   </component>
 </project>

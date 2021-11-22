@@ -1,0 +1,1557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6850ceeb-dbf8-4564-a201-b285fcd0ea49" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/7Alex.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeforces/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/datastructures/disjointsetunion/NewsDistribution.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/greedy/Scheduling/DivisonAndUnion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/greedy/Scheduling/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/string/AllTheVowelsPlease.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphtheory/bfsdfs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphtheory/flow/DotsAndBoxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphtheory/tree/ZeroOneTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/CatParty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/simple/EatingSoup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation/simple/PartyAndSweets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/combinatorics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/constructive/CuteSequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/constructive/TheLCMsMustBeLarge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/equations/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/equations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/geometry/PowerTransmission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/geometry/UnDetected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/implementation/GotAnyGrapes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/implementation/SilentClassroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/implementation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/optimalpartition/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/misc/constructive/MinimalUniqueSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/misc/constructive/PermuationRecovery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/ClosestCircleDistanceMatrixGradientDescent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/acmclub/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/production/ProgrammingContests/acmclub/escapeInput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/production/ProgrammingContests/atcoder/DigitsSum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/production/ProgrammingContests/atcoder/RGBColoring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/production/ProgrammingContests/misc/CountingChessEvolved.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/production/ProgrammingContests/misc/brilliant/FixedPoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/production/ProgrammingContests/misc/brilliant/PolynomialCipher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/production/ProgrammingContests/misc/brilliant/Waterflow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/production/ProgrammingContests/misc/googlecontest/39Steps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/production/ProgrammingContests/misc/googlecontest/CONTESTLINK.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/production/ProgrammingContests/misc/googlecontest/prob.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/production/ProgrammingContests/misc/googlefoobar/BrailleTranslation2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/production/ProgrammingContests/misc/googlefoobar/CONTESTLINK.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/production/ProgrammingContests/misc/hsctf/CONTESTLINK.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/production/ProgrammingContests/misc/hsctf/CountingPartitions.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/production/ProgrammingContests/misc/hsctf/Keith.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/production/ProgrammingContests/misc/hsctf/KeithArithmetic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/production/ProgrammingContests/misc/hsctf/VerySmallPrimes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/ProgrammingContests.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/Arbitrage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/BigTruck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/CanUEscape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/CanUEscapeShort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/CanonicalCoinSystems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/CardTrick/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/CardTrick/trick.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/CardTrick/trick.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/DairyQueens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/DividingGameDP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/DividingGameGreedy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/DividingGameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/EightQueens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/GeneratePermutations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/GenerateSubsetIterative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/GenerateSubsetRecursive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/InverseFib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/MicroWorld/MicroWorld.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/MicroWorld/MicroWorld.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/MinimumCut/cut.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/MinimumCut/cut.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/MissingNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/OH315.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/Present.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/R2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/R2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/R2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/SeaBattle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/StonesOnTheTable/StonesOnTheTable.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/StonesOnTheTable/StonesOnTheTable.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/TwoDimensionalTunnel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/WilburAndArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/cluckynumber/cluckynumber.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/cluckynumber/cluckynumber.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/cppcountless/CppCountLess.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/cppcountless/CppCountLess.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/cpphello/hello.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/cpphello/hello.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/acmclub/escapeInput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/atcoder/DifferBy1Bit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/atcoder/DigitsSum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/atcoder/GoodGrid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/atcoder/InteractiveSorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/atcoder/LimitedInsertion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/atcoder/RGBColoring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/atcoder/Reversi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/atcoder/StoneMonument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/atcoder/StrangeBank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/atcoder/WelcomeToAtCoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/bruteforce/MeetInTheMiddle/XorPaths.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/choosepartition/greedy/YuhaoAndAParenthesis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/choosepartition/greedy/Zebras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/BestCakeEver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/BowlingGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/CavePainting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/ChefAndHisCake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/ChefAndPalindromes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/Chewing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/DifficultChoice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/DigitalRoot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/DigitsSequenceDividing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/DualNim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/GameWithNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/JumpingInTheHills.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/KConcatenation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/MatchedBrackets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/MaximumScore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/ParitionTheNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/PenaltyShootOut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/SecretRecipe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/SmartPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/StringMerging.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/TotalDiamonds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/Tournament.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/TriangleCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/Variation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codechef/VideoGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ACMTeams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Accordion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/AdditionOnSegments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/AlarmClock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/AlenaAndHeater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/AllowedLetters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/AlmostAcyclicGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/AlmostDifference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/AlmostIdenPerms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/AlternatingSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/AnnoyingPresent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/AntiPalindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/AplusB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ArrayAndSegments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ArrayKColoring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ArrayRestoration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ArrayWithoutLocalMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/AyoubAndLostArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Badge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/BalancedSubstring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/BePositive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/BeautifulGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/BinaryProtocol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/BipartateEhabEasy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Birds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Bishwock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/BlackSquare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/BlendOfSpringtime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Bookshelves.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/BookshelvesBruteRecursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Border.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/BoxesPacking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/BracketSubsequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Browser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Brutality.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/BuggyRobot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Bus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Bus2013CERC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/BusNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/BusinessmanProblems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Candies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/CardsSorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/CharactersticsOfRects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/CheckTheString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ChemicalTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Chores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/CityMerger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/CloningToys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ColoredBalls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ColorfulBricks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ColoringATree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/CompressStringHashing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/CompressStringZAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ConanAndAgasaPlayCardGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Connect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ConnectThree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ConvienentForEverybody.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/CountingOutRhyme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/CowpanyCowpensation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Crane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/CreativeSnap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/DestructionOfTreeAlternatingRecursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/DestrutionOfTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/DiceRolling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Digraphs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/DivTimesMod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/DivideByThree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/DivisibleBy25.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/DivisorSubtract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/DoggoRecoloring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/DominantIndicies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Draughts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/EasyProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Eevee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/EhabAndMex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Elections.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ElongatedMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Equalize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/EscapeFromStones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/FafaAndAncientAlphabet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/FafaAndHisCompany.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/FafaAndTheGate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/FairGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/FairNutAndElevator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/FairNutAndString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/FeelingLucky.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/FifaAndFafa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/FindDivisible.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/FindExtraOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Fingerprints.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Fishes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/FiveDPoints.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/FiveInARow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Fly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/FriendsMeeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/GameShopping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/GameWithString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Garden.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/GenerateLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/GennadyAndACardGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Geometery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/GettingAnA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Ghosts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Godsend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/GoldenSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/GraphAndComp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/HamsterFarm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/HashingTrees.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/HelpingHiasat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/HexadecimalsTheorem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/HighLoad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/HighSchoolBecomeHuman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Hills.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/HungryStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/IfAtFirstYouDontSucceed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/InfinityGauntlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Innoforest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Innohorse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/InterCityTravelling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/InterestingGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/InversionCounting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/IsThisZebra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ItheaPlaysWithCtholly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/JamieAndBinSequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/KDomChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Keyraces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/KnightsOfPolygonTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/KvassAndFairNut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/LaboratoryWork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/LauraCroft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/LeapfrogInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/LettersRearranging.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/LinksAndPearls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/LocalExtrema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/LoveRescue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/LoveTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/LuckyTickets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/LunarNewYearAndAWander.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/LunarNewYearAndCrossCounting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/LunarNewYearAndFoodOrdering.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/LunarNewYearAndNumberDivision.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/LunarNewYearAndRecursiveSequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MagicForest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MakeAPermutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MakotoAndABlackBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MapCat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Marlin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MarveloGauntsRing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MashaCubes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MaxSubSeq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Maximize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MaximumElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MedianOnPermutationSegments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MemeProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MergeSortD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MexicanWave.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MikeAndChildren.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MilitaryProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MinTernaryString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MindTheGap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MinimalDiameterForest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MinimizeTheError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MinimumBinaryNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MinimumDiameterTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MinimumValueRectangle/MinValRec.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MinimumValueRectangle/MinValRec.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MinimumValueRectangle/MinValRec2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MishkaAndTheLastExam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MissleSilos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MistofFlorescence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ModCrab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MonotonicRenumeration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/MultiJudgeSolving.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/NearestMinimums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/NekoAndAkiPrank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/NekoAndFlashback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/NekoDoesMaths.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/NekoFindsGrapes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/NekoPerformsCatFurrierTransform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/NestedSegments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/NeutralZone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/NewBuildingForSIS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/NewBusRoute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/NewYearAndTheAcquaintanceEstimation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/NewYearAndTheChristmasOrnament.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/NewYearAndTheMallardExpedition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/NewYearAndTheSphereTransmission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/NewYearAndTheTreasureGeolocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/NewYearsEve.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/NiceGarland.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/NiceTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/NumberList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/NumberOnBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/OfficeKeys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Olympiad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/OpenCommunication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Packets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PaintingPebbles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PairOfToys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PalindromicCharacteristics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PalindromicCharacteristicsRecursive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PalindromicSupersequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PathsInBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PavelAndBarbeque.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PeculiarAppleTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PerfectGroups.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PerfectSquares.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PermCycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PermutationConcatenation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PermutationGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PermuteDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PetrAndCombinationLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PetrPermutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PetrPermutationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PetyaAndCatacombs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PhoneNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PhoneNumbers2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PhotoOfTheSky.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PhysicalEducationLessons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PhysicalEducationLessons2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PicturesWithKittens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PizzaPizzaPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PizzaSeparation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PlanningTheExpedition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PlasticineZebra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PointsOnTheLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PolycarpaAndLetters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PolygonForTheAngle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PositionInFraction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PostLamps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Posterized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PreparingProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PrimalSport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PrimeGift.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ProducingSnow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ProperNutrition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ProtectSheep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/PythInd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/QuirkyQuantifiers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/RPSChampion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/RainAndUmbrella.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/RaviolliSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ReachMedian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/RecursiveQueries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/RelativelyPrimeGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/RemoveExtraOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ReorderArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ResourceDist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/RestaurantTables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/RightLeftCipher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/RobotVaccumCleaner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Rocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Romanji.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/RotationSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Rounding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Rumor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SashaAndABitOfRelax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SashaAndHisTrip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SashaAndMagneticMachines.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SashaAndOneMoreName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SaveEnergy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SayHello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Segments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SerejaAndBrackets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SergeysProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ShadeOfMoonlight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SimilarArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SingleUseStones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SingleWildcardPatternMatching.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SleepyGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SocialCircles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SonyaAndExhibition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SonyaAndHotels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SonyaAndMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SonyaAndRobots.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SorcerersDonut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Splits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SplittingIntoDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SquareSubsets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SquaresAndNotSquares.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Squarow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/StackSorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Stages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/StairsAndElevators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/StarArrangements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/StarSky.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/StepsToOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/StrangeGameOnMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/StringConstruction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SubsequenceCounting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SubstringRemoval.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SuitableReplacement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SumInTheTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SuperHeroTransformation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SwapAdjElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/SystemTesting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TanyaCryingOutLoud.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TaxiDriversLyft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TeaQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TechnoGobletOfFire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TeodorIsNotALiar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TheArtfulExpedient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TheKingsRace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TheTowerIsGoingHome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TheatreSquare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ThreeDisplays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ThreeGarlands.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TideOfRiverscape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TimeTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TimeTableWrong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TomRiddleDiary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ToyTrain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TravellingSalesmanAndSpecialNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TrickyAlchemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TurnTheRectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TwoCakes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TwoCakesNumberTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TwoSquares.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TwoStringsSwaps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/TwoTVs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/Unimodal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/UsefulDecomposition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/ValidBFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/VasyaAndTemplates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/VasyasFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/VeraAndABCDE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/VeraAndBanquet/VeraAndBanquet.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/VeraAndBanquet/VeraAndBanquet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/VeraAndDogs/VeraAndDogs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/VeraAndDogs/VeraAndDogs.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/VileGrasshoppers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/VisitingAFriend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/VladAndCafes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/VovaAndTrain/train.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/VovaAndTrain/train.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/WalkingRoute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/WaterTheGarden.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/WateringSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/WeakenedCommonDivisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/WhatDoesTheFoxSay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/WinOrFreeze.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/_InterestingGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/_IntersectingSubtrees.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/_Marathon_ColoredPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/codeforces/_Marathon_ColoredPathGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/constructive/WrongAnswer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/datastructures/trie/XorMST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/dp/ACureForTheCommonCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/dp/Bricks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/dp/BricksElegant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/dp/GeneralizedRomanNumerals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/flow/Inspectors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/googlecodejam/BitParty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/googlecodejam/CryptoPangrams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/googlecodejam/CubicUFO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/googlecodejam/DatBae.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/googlecodejam/Draupnir.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/googlecodejam/EdgyBaking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/googlecodejam/FairFight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/googlecodejam/FallingBalls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/googlecodejam/ForegoneSolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/googlecodejam/GoGopher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/googlecodejam/GracefulChainsawJugglers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/googlecodejam/ManhattanCrepeCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/googlecodejam/SavingTheUniverseAgain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/googlecodejam/WaffleChoppers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/googlecodejam/YouCanGoYourOwnWay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/graphtheory/BalancedNeighbors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/graphtheory/bfsdfs/PathOfLeastPersistence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/graphtheory/bridges/WeNeedMoreBosses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/greedy/WellPlayed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/icpc/seerc2017/Concerts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/icpc/seerc2017/HarryPotterAndTheVectorSpell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/implementation/other/WorldCup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/AQuestionOfIngestion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/AbstractArt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/ApplesCherriesMangos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/Arcade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/Autori.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/BigTruck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/BobbysBet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/CantinaOfBabel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/CatchThePlane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/CatchThePlaneRecursive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/DanilAndPartTimeJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/DasBlinkenlights.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/DiffListGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/EmptyingBaltic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/Esej.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/InverseFact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/Kayaking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/LeftAndRight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/LostInTranslation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/MountainBiking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/NinePacks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/OfCatsAndMagicalLights.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/PegGameForTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/PrefixFreeCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/Primonimo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/Quadrant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/QuickEstimate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/Robotopia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/RunLengthEncodingRun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/SquackVirus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/Superdoku.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/TestingInvMod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/UnusualDarts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/WatchYourStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/brackets/brackets.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/brackets/brackets.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/kattis/cppr2/r2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/math/ContinuedFractions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/math/PolynomialCipher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/math/PolynomialMultiplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/math/TrapezoidStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/math/implementation/TimeWarp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/math/linearalgebra/ZeroXorSubsetless.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/Waterflow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/aoc/AOC2017Day1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/aoc/AOC2017Day2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/aoc/AOC2017Day3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/aoc/AOC2017Day4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/aoc/AOC2017Day5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/aoc/AOC2017Day6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/aoc/AOC2017Day7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/aoc/AOC2018Day1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/aoc/AOC2018Day10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/aoc/AOC2018Day2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/brilliant/FixedPoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/googlecontest/CONTESTLINK.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/googlecontest/DancingWithTheGooglers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/googlecontest/GoogleBookThrow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/googlecontest/GoogleHatstrophe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/googlecontest/GoogleRockAndRoll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/googlecontest/NumberGuessing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/googlecontest/OdometerSense.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/googlehashcode/HashCode2019.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/googlehashcode/Pizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/hsctf/CONTESTLINK.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/hsctf/CountingPartitions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/hsctf/KeithArithmetic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/hsctf/VerySmallPrimes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/misc/verymisc/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/TODO.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/other/CountingChessEvolved.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/other/HardBugs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/other/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/other/MontyHall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/other/PitmanProbability2Review18b.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/other/googlefoobar/BombBaby.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/other/googlefoobar/BrailleTranslation2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/other/googlefoobar/CONTESTLINK.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/other/googlefoobar/CloseHouses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/other/googlefoobar/DistractTheGuards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/other/googlefoobar/DontGetVolunteered.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/other/googlefoobar/ElevatorMaintenance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/other/googlefoobar/ExpandingNebula.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/other/googlefoobar/FreeTheBunnyPrisoners.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/other/googlefoobar/FuelInjectionPerfection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/other/googlefoobar/LinesOfStudents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/other/googlefoobar/PrepareTheBunniesEscape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/other/jobquestions/InterviewQuest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/other/jobquestions/Symcode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/string/ColorfulSubsequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/string/implementation/ABD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/string/implementation/PaintingTheFence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/string/implementation/ciphers/WeakerThanPlanned.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/tools/DataStructures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/tools/GraphInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/tools/GraphTheory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/tools/HungarianAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/tools/LinearAlgebra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/tools/NumberTheoreticTransform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/tools/NumberTheory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/tools/Strings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/unfinished/AppropriateTeam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/unfinished/ChristmasTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/unfinished/DanilAndPartTimeJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/unfinished/Fair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/unfinished/IntersectionOfPermutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/unfinished/JumpingHaybales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingContests/src/unfinished/ListGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/other/acmclub/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="8" selection-start-column="8" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Script" />
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/math/equations/README.md" />
+        <option value="$PROJECT_DIR$/src/math/equations/Robotopia.java" />
+        <option value="$PROJECT_DIR$/src/math/equations/InverseFact.java" />
+        <option value="$PROJECT_DIR$/src/math/equations/ContinuedFractions.java" />
+        <option value="$PROJECT_DIR$/src/math/equations/PolynomialMultiplication.java" />
+        <option value="$PROJECT_DIR$/src/math/implementation/TrapezoidStack.java" />
+        <option value="$PROJECT_DIR$/src/misc/gametheory/BowlingGame.java" />
+        <option value="$PROJECT_DIR$/src/codechef/DigitsSequenceDividing.java" />
+        <option value="$PROJECT_DIR$/src/greedy/DigitsSequenceDividing.java" />
+        <option value="$PROJECT_DIR$/src/codechef/StringMerging.java" />
+        <option value="$PROJECT_DIR$/src/codechef/SmartPhone.java" />
+        <option value="$PROJECT_DIR$/src/dp/StringMerging.java" />
+        <option value="$PROJECT_DIR$/src/codechef/CavePainting.java" />
+        <option value="$PROJECT_DIR$/src/bruteforce/CavePainting.java" />
+        <option value="$PROJECT_DIR$/src/math/optimalpartition/ChefAndHisCake.java" />
+        <option value="$PROJECT_DIR$/src/math/optimalpartition/README.md" />
+        <option value="$PROJECT_DIR$/src/implementation/string/ChefAndPalindromes.java" />
+        <option value="$PROJECT_DIR$/src/implementation/README.md" />
+        <option value="$PROJECT_DIR$/src/misc/constructive/Superdoku.java" />
+        <option value="$PROJECT_DIR$/src/graphtheory/tree/DifficultChoice.java" />
+        <option value="$PROJECT_DIR$/src/math/equations/DigitalRoot.java" />
+        <option value="$PROJECT_DIR$/src/math/numbertheory/DigitalRoot.java" />
+        <option value="$PROJECT_DIR$/src/math/combinatorics/Chewing.java" />
+        <option value="$PROJECT_DIR$/src/dp/Chewing.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/greedy/DivisonAndUnion.kt" />
+        <option value="$PROJECT_DIR$/src/codeforces/VeraAndBanquet/VeraAndBanquet.java" />
+        <option value="$PROJECT_DIR$/src/core/README.md" />
+        <option value="$PROJECT_DIR$/src/misc/gametheory/GameWithNumbers.java" />
+        <option value="$PROJECT_DIR$/src/implementation/simple/SmartPhone.java" />
+        <option value="$PROJECT_DIR$/src/math/optimalpartition/SmartPhone.java" />
+        <option value="$PROJECT_DIR$/src/implementation/simulation/JumpingInTheHills.java" />
+        <option value="$PROJECT_DIR$/src/math/implementation/KConcatenation.java" />
+        <option value="$PROJECT_DIR$/src/codechef/MatchedBrackets.java" />
+        <option value="$PROJECT_DIR$/src/core/string/implementatino/MatchedBrackets.java" />
+        <option value="$PROJECT_DIR$/src/core/string/implementation/MatchedBrackets.java" />
+        <option value="$PROJECT_DIR$/src/core/string/VeraAndBanquet.java" />
+        <option value="$PROJECT_DIR$/src/core/string/implementation/WhatDoesTheFoxSay.java" />
+        <option value="$PROJECT_DIR$/src/core/string/implementation/QuickBrownFox.java" />
+        <option value="$PROJECT_DIR$/src/core/string/implementation/Autori.java" />
+        <option value="$PROJECT_DIR$/src/core/string/implementation/ABD.java" />
+        <option value="$PROJECT_DIR$/src/misc/binarysearch/MaximumScore.java" />
+        <option value="$PROJECT_DIR$/src/math/constructive/ParitionTheNumbers.java" />
+        <option value="$PROJECT_DIR$/src/implementation/simple/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/math/equations/PenaltyShootOut.java" />
+        <option value="$PROJECT_DIR$/src/math/equations/SecretRecipe.java" />
+        <option value="$PROJECT_DIR$/src/implementation/simulation/PenaltyShootOut.java" />
+        <option value="$PROJECT_DIR$/src/core/greedy/Scheduling/DivisonAndUnion.kt" />
+        <option value="$PROJECT_DIR$/src/core/greedy/Scheduling/README.md" />
+        <option value="$PROJECT_DIR$/src/codeforces/README.md" />
+        <option value="$PROJECT_DIR$/src/acmclub/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1099" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProgrammingContests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammingContests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammingContests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammingContests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammingContests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammingContests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk-10.0.2/bin/javac.exe" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\7Alex\IdeaProjects\ProgrammingContests\src\core\greedy\Scheduling" />
+      <recent name="C:\Users\7Alex\IdeaProjects\ProgrammingContests\src\core\string" />
+      <recent name="C:\Users\7Alex\IdeaProjects\ProgrammingContests\src\greedy" />
+      <recent name="C:\Users\7Alex\IdeaProjects\ProgrammingContests\src\math\equations" />
+      <recent name="C:\Users\7Alex\IdeaProjects\ProgrammingContests\src\math\implementation" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LostInTranslation">
+    <configuration name="Kayaking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="10" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="kattis.Kayaking" />
+      <module name="ProgrammingContests" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="math.numbertheory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeftAndRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="10" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="implementation.simple.LeftAndRight" />
+      <module name="ProgrammingContests" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="math.optimalpartition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LostInTranslation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="10" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="graphtheory.bfsdfs.LostInTranslation" />
+      <module name="ProgrammingContests" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graphtheory.bfsdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="10" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="ProgrammingContests" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="ProgrammingContests" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="core.dp.greedy.DivisonAndUnionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingContests" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="core.dp.greedy.DivisonAndUnionKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="math.implementation.GotAnyGrapesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingContests" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="math.implementation.GotAnyGrapesKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Kayaking" />
+      <item itemvalue="Application.LeftAndRight" />
+      <item itemvalue="Application.LostInTranslation" />
+      <item itemvalue="Kotlin.math.implementation.GotAnyGrapesKt" />
+      <item itemvalue="Kotlin.core.dp.greedy.DivisonAndUnionKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LostInTranslation" />
+        <item itemvalue="Application.LeftAndRight" />
+        <item itemvalue="Application.Kayaking" />
+        <item itemvalue="Kotlin.core.dp.greedy.DivisonAndUnionKt" />
+        <item itemvalue="Kotlin.math.implementation.GotAnyGrapesKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6850ceeb-dbf8-4564-a201-b285fcd0ea49" name="Default Changelist" comment="" />
+      <created>1557120111146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557120111146</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24438573" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30254352" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39625168" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32931727" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32797858" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" x="0" y="0" width="337" height="678" id="Documentation" order="4" side_tool="true" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/math/geometry/UnDetected.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/math/geometry/UnDetected.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/math/geometry/UnDetected.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/math/constructive/TheLCMsMustBeLarge.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JetRunConfigurationType">
+        <watch expression="group[0]" language="kotlin" />
+        <watch expression="group.joinToString { &quot; &quot; }" language="kotlin" />
+        <watch expression="group.join" language="kotlin" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="Long.numberOfTrailingZeros(b/a)" language="JAVA" />
+        <watch expression="b" language="JAVA" />
+        <watch expression="a" language="JAVA" />
+        <watch expression="b/a" language="JAVA" />
+        <watch expression="Long.num" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>k==6</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>newMatrix[0][1]!=0 &amp;&amp; x[0]==0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x[0]==0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x[0]=0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mNum==0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.ind==0 &amp;&amp; e.ind==3</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.ind==1 &amp;&amp; e.ind==3</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e.ind==3 &amp;&amp; this.ind==0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ind==1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e.ind==1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>group.join</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>group.joinToString { &quot; &quot; }</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>group[0]</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>groupSize.forEach { i -&gt; groupSize[getAncestor(i, parent)]}</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getAncestor(3,parent)</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Long.num</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>b/a</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>b</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Long.numberOfTrailingZeros(b/a)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/math/equations/MountainBiking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/dp/StringMerging.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/dp/SafePassage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/dp/Bricks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/misc/gametheory/BowlingGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/equations/PolynomialCipher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/bruteforce/CavePainting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/optimalpartition/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/optimalpartition/ChefAndHisCake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/misc/constructive/Superdoku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/implementation/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="81" selection-start-column="81" selection-end-column="81" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/string/ChefAndPalindromes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphtheory/tree/DifficultChoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/equations/PolynomialMultiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/numbertheory/DigitalRoot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphtheory/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/dp/Chewing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="153">
+            <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/optimalpartition/ManhattanCrepeCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/MinimumValueRectangle/MinValRec.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/combinatorics/BobbysBet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/misc/gametheory/GameWithNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/implementation/simple/BestCakeEver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/optimalpartition/SmartPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/implementation/KConcatenation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/implementation/simulation/JumpingInTheHills.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/string/implementation/MatchedBrackets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/string/VeraAndBanquet.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/string/RunLengthEncodingRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/string/VeraAndBanquet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="33" column="6" lean-forward="true" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/string/implementation/Esej.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/string/implementation/WhatDoesTheFoxSay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/string/implementation/QuickBrownFox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/string/AllTheVowelsPlease.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/string/implementation/ABD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/string/implementation/Autori.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/misc/binarysearch/MaximumScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/constructive/ParitionTheNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/greedy/Scheduling/DivisonAndUnion.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/greedy/Scheduling/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="35" lean-forward="true" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/greedy/DigitsSequenceDividing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/greedy/Scheduling/Waterflow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/implementation/simulation/PenaltyShootOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/implementation/simple/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/equations/Robotopia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/equations/SecretRecipe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="65" selection-start-column="65" selection-end-column="65" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/acmclub/OH315.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/acmclub/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="8" selection-start-column="8" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Python</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ProgrammingContests</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
