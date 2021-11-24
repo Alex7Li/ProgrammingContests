@@ -1,8 +1,11 @@
-On problem https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf/00000000007ae4aa#problem
-from codejam2021 round 1b
+Maybe the sneakiest bug I've caught to date was on problem https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf/00000000007ae4aa#problem from codejam2021 round 1b.
 
-u consists of at most 20 nonzero elements in indicies [1,20]. Nonzero elements are at most 20.
-a, b are some integers between 1 and 20. Here is the wrong code, and the fix is commented.
+In the subproblem of my solution, you have a single metal with value M. You have a spell that can replace a metal with value X with 2 metals of value X-a and X-b where a, b are some integers between 1 and 20, and your goal is to obtain array U consisting of at most 20 nonzero elements in indicies [1,20]. 
+
+
+Here is the wrong code, and the fix is commented.
+
+```cpp
 bool works(int M, vector<int> u, int a, int b) {
     vector<int> metal_counts(M + 1, 0);
     metal_counts[M] = 1;
@@ -22,10 +25,16 @@ bool works(int M, vector<int> u, int a, int b) {
     }
     return true;
 }
+```
+
 It is right on 99/100 of the GCJ test cases, wrong on a=1, b=20, u is all 20's from 1 to 20 (here)
+
+```
 1
 20 1 20
 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20
+```
+
 What's happening? We might need to know if we have more than 50 of a type of metal, because after subtracting
 20 from it when we reference it, we are only sending 30 down to the successors. If that successor is hit again,
 it only sends 10 resources down, and then it it's hit again, we might not have anything left, but we would if we had
