@@ -8,6 +8,7 @@ public class AllTheVowelsPlease {
 public static void main(String[] xx) throws IOException {
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
+    sc.close();
     int m = 1;
     for (int i = 5; i <= n; i++) {
         if (n % i == 0) {

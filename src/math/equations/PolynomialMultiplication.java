@@ -12,7 +12,7 @@ public static void main(String[] args) throws IOException {
     BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
     int tests = Integer.parseInt(br.readLine());
     for (int t = 0; t < tests; t++) {
-        int n = Integer.parseInt(br.readLine());
+        Integer.parseInt(br.readLine());
         // a.length==b.length==n+1
         long[] a = Arrays.stream(br.readLine().split(" ")).mapToLong(Long::parseLong).toArray();
         long[] b = Arrays.stream(br.readLine().split(" ")).mapToLong(Long::parseLong).toArray();

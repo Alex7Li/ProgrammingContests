@@ -58,7 +58,7 @@ public class NumberTheoreticTransform {
      * Note: When computing the inverse, this function will return 2^k times the
      * correct answer. Please divide as needed.
      */
-    private static long[] numberTheoreticTransform(long[] coef, int k, boolean inverse) {
+    static long[] numberTheoreticTransform(long[] coef, int k, boolean inverse) {
         coef = reorderArray(coef, k);
         long[] roots = calcRoots(k, inverse);
         for (int s = 0; s < k; s++) {

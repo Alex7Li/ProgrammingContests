@@ -17,6 +17,7 @@ public class Concerts {
                 .mapToInt(Integer::parseInt).toArray();
         char[] watchSeq = sc.nextLine().toCharArray();
         char[] seq = sc.nextLine().toCharArray();
+        sc.close();
         // ways[i][j]: ways to watch shows in watchSeq up to not including
         // watchSeq[j] before the show at seq[i] comes on.
         int[][] ways = new int[n + 1][k + 1];

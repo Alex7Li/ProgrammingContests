@@ -14,8 +14,6 @@ public class GracefulChainsawJugglers {
             return memo[R][B][row][mCol];
         }
         int best = 0;
-        int min = 0;
-        int max = mCol;
         for (int i = 0; i <= mCol; i++) {
             int rX = costs[row][i].x;
             int rY = costs[row][i].y;
@@ -42,8 +40,6 @@ public class GracefulChainsawJugglers {
 
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
-        int max = 500;
-        out:
         for (int i = 0; i < costs.length; i++) {
             for (int j = 0; j < costs[0].length; j++) {
                 costs[i][j] = new Pair(i, j);

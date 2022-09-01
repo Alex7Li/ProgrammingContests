@@ -17,16 +17,16 @@ import java.util.List;
  * long modPow(long a, long p)
  * long modInv(long a)
  */
-class NumberTheory {
+public class NumberTheory {
     /*
      * so the class compiles... you can use whatever mod the problem wants you too
      */
-    private static final long MOD = 998244353;
+    static final long MOD = 998244353;
 
     /**
      * return n choose k (mod some number)
      */
-    private static long choose(int n, int k, int mod) {
+    static long choose(int n, int k, int mod) {
         long ans = 1;
         for (int i = k + 1; i <= n; i++) {
             ans = (ans * i) % mod;
@@ -64,7 +64,7 @@ class NumberTheory {
      * if n, m are relatively prime, toitent(nm) = toitent(n)*toitent(m).
      * if n is prime, toitent(n) = n - 1.
      */
-    private static int toitent(int n) {
+    static int toitent(int n) {
         // Initialize result as n
         int result = n;
 
@@ -96,7 +96,7 @@ class NumberTheory {
      * Takes O(n) time.
      * If you only need the value for n, factor it yourself >:(
      */
-    private static int[] mobius(int n) {
+    static int[] mobius(int n) {
         // the ideas here are very similar to the ideas in the prime sieve function
         List<Integer> primes = new ArrayList<>();
         int[] mobius = new int[n + 1];
@@ -126,7 +126,7 @@ class NumberTheory {
      * Also generates an array of the minimum factor for every number
      * from 1 to n, which can be used to find all factors of any number up to n.
      */
-    private static List<Integer> primeSieve(int n) {
+    static List<Integer> primeSieve(int n) {
         List<Integer> primes = new ArrayList<>();
         // minFact[i] contains the minimum prime factor of i.
         int[] minFact = new int[n + 1];
@@ -151,7 +151,7 @@ class NumberTheory {
      * @param n The numbers to factor
      * @return a list of all the prime factors of n
      */
-    private static List<Long> primeFactors(long n) {
+    static List<Long> primeFactors(long n) {
         List<Long> primes = new ArrayList<>();
         for (long i = 2; i * i <= n; i++) {
             if (n % i == 0) {
@@ -172,7 +172,7 @@ class NumberTheory {
      * @param n The number to square root
      * @return floor(sqrt(n))
      */
-    private BigInteger sqrt(BigInteger n) {
+    BigInteger sqrt(BigInteger n) {
         BigInteger a = BigInteger.ONE;
         BigInteger b = new BigInteger(n.shiftRight(5).add(new BigInteger("8")).toString());
         while (b.compareTo(a) >= 0) {

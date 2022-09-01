@@ -23,5 +23,6 @@ public static void main(String[] xx) throws IOException {
         ans+=(higher*(higher-1))/2;
     }
     System.out.println(ans);
+    sc.close();
 }
 }

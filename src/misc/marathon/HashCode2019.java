@@ -256,7 +256,6 @@ class HashCode2019 {
         int intersection = aSize + bSize - unionSize;
         int min1 = Math.min(aSize - intersection, bSize - intersection);
         return Math.min(min1, intersection);
-        // TODO: potentially make faster, take advantage of sortedness of arrays.
     }
 
     public static void anneal(List<Node> nodes, List<Node> bigNodes) {

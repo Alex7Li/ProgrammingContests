@@ -1,5 +1,6 @@
 #!/bin/bash
 c++ -o gen ../$1.cpp
+mv gen gen.exe 2>/dev/null; true
 n=${2-10}
 # For i from 1 to the 3rd arg, or 10
 for ((i=1; i <= $n; i++))

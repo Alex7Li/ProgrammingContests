@@ -13,10 +13,11 @@ public class XorPaths {
         long k = sc.nextLong();
         long[][] grid = new long[MAX_SIZE][MAX_SIZE];
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                grid[i][j] = sc.nextLong();
-            }
+          for (int j = 0; j < m; j++) {
+            grid[i][j] = sc.nextLong();
+          }
         }
+        sc.close();
         ArrayList<ArrayList<Map<Long, Long>>> maps = new ArrayList<>();
         for (int i = 0; i < MAX_SIZE; i++) {
             maps.add(new ArrayList<>());

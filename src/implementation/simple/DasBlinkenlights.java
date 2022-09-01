@@ -27,7 +27,8 @@ public class DasBlinkenlights {
             System.out.println("yes");
         }
         else {
-            System.out.println("no");
+          System.out.println("no");
         }
+        sc.close();
     }
 }

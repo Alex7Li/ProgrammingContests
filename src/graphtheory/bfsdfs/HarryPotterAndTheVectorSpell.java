@@ -50,6 +50,7 @@ public class HarryPotterAndTheVectorSpell {
             }
         }
         System.out.println(m - connectedComponents);
+        sc.close();
     }
 
     private static class Node {

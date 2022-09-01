@@ -1,25 +1,67 @@
 package other.acmclub;
 
+import java.util.ArrayDeque;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Queue;
 import java.util.Scanner;
 
+class QueueElement {
+  QueueElement prev;
+  double ratio;
+  int ind;
+
+
+  public QueueElement(QueueElement prev, int ind, double ratio) {
+    this.ratio = ratio;
+    this.ind = ind;
+    this.prev = prev;
+  }
+}
 //https://open.kattis.com/problems/arbitrage
 public class Arbitrage {
+  public static void find_cycle(int start, double[][] edgeMatrix, int n_currency, String[] currency_names) {
+    Queue<QueueElement> Q = new ArrayDeque<QueueElement>();
+    Q.add(new QueueElement(null, start, 0.0));
+    while (true) {
+      QueueElement next = Q.poll();
+      if (next.ind == start && next.prev != null) {
+        if (next.ratio > 0) {
+          System.out.println(Math.exp(next.ratio));
+          while (next.prev != null) {
+            System.out.print(currency_names[next.ind] + " ");
+            next = next.prev;
+          }
+          return;
+        }
+        continue;
+      }
+      for (int i = 0; i < edgeMatrix.length; i++) {
+        if (edgeMatrix[next.ind][i] != Double.NEGATIVE_INFINITY) {
+          Q.add(new QueueElement(next, i, next.ratio + edgeMatrix[next.ind][i]));
+        }
+      }
+    }
+    }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n_currency = Integer.parseInt(sc.nextLine());
         do {
-            Map<String, Integer> currencies = new HashMap<>();
+          Map<String, Integer> currencies = new HashMap<>();
+          String[] currency_names = new String[n_currency];
             for (int i = 0; i < n_currency; i++) {
-                currencies.put(sc.next(), i);
+              String name = sc.next();
+              currencies.put(name, i);
+              currency_names[i] = name;
             }
             double[][] edgeMatrix = new double[n_currency][n_currency];
+            double[][] origEdgeMatrix = new double[n_currency][n_currency];
             for (int i = 0; i < edgeMatrix.length; i++) {
                 for (int j = 0; j < edgeMatrix[i].length; j++) {
                     if (i != j) {
                         edgeMatrix[i][j] = Double.NEGATIVE_INFINITY;
                     }
+                    origEdgeMatrix[i][j] = Double.NEGATIVE_INFINITY;
                 }
             }
             int n_rates = Integer.parseInt(sc.next());
@@ -31,6 +73,7 @@ public class Arbitrage {
                 String[] ratioStr = sc.next().split(":");
                 double ratio = Double.parseDouble(ratioStr[1]) / Double.parseDouble(ratioStr[0]);
                 edgeMatrix[node1][node2] = Math.log(ratio);
+                origEdgeMatrix[node1][node2] = edgeMatrix[node1][node2];
             }
             for (int i = 0; i < edgeMatrix.length; i++) {
                 for (int j = 0; j < edgeMatrix.length; j++) {
@@ -42,13 +85,15 @@ public class Arbitrage {
                     }
                 }
             }
-            boolean arbitrage = false;
+            int arbitrage = -1;
             for (int i = 0; i < edgeMatrix.length; i++) {
                 if (edgeMatrix[i][i] > 1e-7) {
-                    arbitrage = true;
+                  arbitrage = i;
+                  System.err.println(currency_names[i]);
                 }
             }
-            if (arbitrage) {
+            if (arbitrage != -1) {
+                find_cycle(arbitrage, origEdgeMatrix, n_currency, currency_names);
                 System.out.println("Arbitrage");
             } else {
                 System.out.println("Ok");

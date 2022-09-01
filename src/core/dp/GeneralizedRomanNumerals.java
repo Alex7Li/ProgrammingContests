@@ -71,6 +71,7 @@ public class GeneralizedRomanNumerals {
             caseNum++;
             expressionStr = input.nextLine().toCharArray();
         }
+        input.close();
         pw.flush();
     }
 }

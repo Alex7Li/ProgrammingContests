@@ -1,5 +1,7 @@
 #!/bin/bash
 # run inputs and compare them
+rm -rf CodeOutputs
+mkdir CodeOutputs
 if [ $# -eq 1 ]; then
   ./save.sh $1
 else

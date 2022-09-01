@@ -8,7 +8,7 @@ import java.util.Arrays;
 public class EasyProblem {
 public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    int n = Integer.parseInt(br.readLine());
+    Integer.parseInt(br.readLine());
     char[] s = br.readLine().toCharArray();
     int[] w = Arrays.stream(br.readLine().split(" "))
             .mapToInt(x -> Integer.parseInt(x)).toArray();

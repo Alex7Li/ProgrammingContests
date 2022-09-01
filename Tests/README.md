@@ -1,7 +1,7 @@
 # Guide To Automated Testing
 
-***!IMPORTANT! All of your code should be written in the CLion directory,
-and you run the test from the CLion/Tests directory***
+***!IMPORTANT! All of your code should be written in the root directory,
+and you run the test from the /Tests directory***
 ## Running Basic Tests
 To run tests, you need a file to test call it to_test.cpp.
 Then, populate the Input folder with your test cases.
@@ -61,4 +61,12 @@ To clear all the folders:
 To clear and also add n empty files for sample input/output
 ```bash
 ./clear.sh n
+```
+
+
+# Debugging
+If you get permission denied error when trying to run stuff, try marking the files as executable
+
+```
+/Tests$ chmod +x ./*.sh
 ```

@@ -14,8 +14,9 @@ public class BricksElegant {
         int m = sc.nextInt();
         int[] a = new int[n + 1];
         for (int i = 0; i < m; i++) {
-            a[sc.nextInt() - 1]++;
+          a[sc.nextInt() - 1]++;
         }
+        sc.close();
         // dp[diff] = the number of ways to fill the interval 1...i
         // as of the last time that i-sum_{j=0}^i(a[i])=diff.
         int[] dp = new int[n];

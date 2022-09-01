@@ -8,7 +8,7 @@ public class ColorfulSubsequence {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+        sc.nextInt();
         sc.nextLine();
         char[] str = sc.nextLine().toCharArray();
         int[] counts = new int[26];
@@ -20,5 +20,6 @@ public class ColorfulSubsequence {
             ans = (ans * (counts[i] + 1)) % MOD;
         }
         System.out.println(ans - 1);
+        sc.close();
     }
 }

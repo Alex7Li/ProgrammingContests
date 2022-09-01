@@ -106,16 +106,8 @@ private static class Fraction implements Comparable<Fraction> {
         return new Fraction(num * subtrahend.num, denom * subtrahend.denom);
     }
     
-    private Fraction divide(Fraction dividend) {
-        return new Fraction(num * dividend.denom, denom * dividend.num);
-    }
-    
     private Fraction subtract(Fraction subtrahend) {
         return new Fraction(num * subtrahend.denom - subtrahend.num * denom, denom * subtrahend.denom);
-    }
-    
-    private Fraction add(Fraction addend) {
-        return new Fraction(num * addend.denom + addend.num * denom, denom * addend.denom);
     }
     
     private static long gcd(long a, long b) {

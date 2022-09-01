@@ -18,7 +18,7 @@ public class GraphTheory {
  * @return a euclidean path from start, or null if none exist
  * The map goes from integer node labels to a set of node labels
  */
-private static Queue<Integer> getEuclideanPath(Map<Integer, Set<Integer>> edges, int start) {
+static Queue<Integer> getEuclideanPath(Map<Integer, Set<Integer>> edges, int start) {
     ArrayDeque<Integer> curPath = new ArrayDeque<>(); // a stack
     Queue<Integer> finalPath = new ArrayDeque<>(); // a queue!
     
@@ -62,7 +62,7 @@ private static Queue<Integer> getEuclideanPath(Map<Integer, Set<Integer>> edges,
  * the returned collection.
  * Time complexity: O(V+E) (takes one dfs)
  */
-private static Collection<Collection<Node>> getStronglyConnectedComponents(Collection<Node> nodes) {
+static Collection<Collection<Node>> getStronglyConnectedComponents(Collection<Node> nodes) {
     scc = new ArrayList<>();
     for (Node node : nodes) {
         if (node.seenTime == 0) {
@@ -129,13 +129,13 @@ private static class Node {
  * edge and return the lowest timeSeen. The edge is a bridge exactly when that time is leq to the time that
  * we started searching that edge,
  */
-private static class Node2 {
+public static class Node2 {
     Node2[] edges;
     int timeSeen = 0;
     Set<Node2> bridges = new HashSet<>();
     static int totalSeen = 0;
     
-    private int findBridges(Node2 parent) {
+    int findBridges(Node2 parent) {
         totalSeen++;
         timeSeen = totalSeen;
         int minSeen = timeSeen;
@@ -164,7 +164,7 @@ private static class Node2 {
 // them, you must call the addEdge method. Finally, call findFlow() to get the maximum flow. You can modify it
 // to get the mincut, too... I believe that the nodes on the source side of the cut will be exactly the nodes with
 // level[i] = 0 after calling findFlow().
-private static class FlowNetwork {
+public static class FlowNetwork {
     
     private int n; // number of nodes
     private int source; // index of source
@@ -216,7 +216,7 @@ private static class FlowNetwork {
      * using only edges which can have flow added to them.
      * Return true iff there is a path from the source to the sink.
      */
-    private boolean levelGraph() {
+    boolean levelGraph() {
         level = new int[n];
         Queue<Integer> Q = new ArrayDeque<>();
         Q.add(source);
@@ -234,7 +234,7 @@ private static class FlowNetwork {
         return level[sink] != 0;
     }
     
-    private int augmentPath(int st, int flow) {
+    int augmentPath(int st, int flow) {
         if (st == sink) {
             return flow;
         }
@@ -254,7 +254,7 @@ private static class FlowNetwork {
     }
     
     
-    private int findFlow() {
+    int findFlow() {
         final int INF = Integer.MAX_VALUE / 2;
         int tFlow = 0;
         while (levelGraph()) {
