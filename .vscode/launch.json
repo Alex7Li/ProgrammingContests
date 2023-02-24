@@ -6,30 +6,37 @@
     "configurations": [
       {
         "type": "java",
+        "name": "Launch EightBitTollRoad",
+        "request": "launch",
+        "mainClass": "BuckeyeProgrammingContest.EightBitTollRoad",
+        "projectName": "ProgrammingContests_55d9dbeb"
+      },
+      {
+        "type": "java",
         "name": "Launch Java Program",
         "request": "launch",
         "mainClass": ""
       },
-        {
-            "name": "g++ - Build and debug active file",
-            "type": "cppdbg",
-            "request": "launch",
-            "program": "${fileDirname}/${fileBasenameNoExtension}",
-            "args": [],
-            "stopAtEntry": false,
-            "cwd": "${fileDirname}",
-            "environment": [],
-            "externalConsole": false,
-            "MIMode": "gdb",
-            "setupCommands": [
-                {
-                    "description": "Enable pretty-printing for gdb",
-                    "text": "-enable-pretty-printing",
-                    "ignoreFailures": true
-                }
-            ],
-            "preLaunchTask": "C/C++: g++ build active file",
-            "miDebuggerPath": "/usr/bin/gdb"
-        }
+      {
+        "name": "g++ - Build and debug active file",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${fileDirname}/${fileBasenameNoExtension}",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${fileDirname}",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "gdb",
+        "setupCommands": [
+          {
+            "description": "Enable pretty-printing for gdb",
+            "text": "-enable-pretty-printing",
+            "ignoreFailures": true
+          }
+        ],
+        "preLaunchTask": "C/C++: g++ build active file",
+        "miDebuggerPath": "/usr/bin/gdb"
+      }
     ]
 }

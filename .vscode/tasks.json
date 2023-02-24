@@ -9,8 +9,12 @@
         "${file}",
         "-o",
         "${fileDirname}/${fileBasenameNoExtension}",
+        "-DLOCAL",
+        "-march=native",
         "-Wall",
         "-Wextra",
+        "-Wshadow",
+        "-Wno-sign-compare",
         "-D _GLIBCXX_DEBUG",
         "-D _GLIBCXX_DEBUG_PEDANTIC"
       ],
